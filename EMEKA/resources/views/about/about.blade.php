@@ -17,14 +17,14 @@ function OptanonWrapper(){var t;window.infotrackInitialized||void 0===window.Inf
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no" />
-<meta itemprop="name" content="Best Ways to Start Investing Money for the First Time | The Motley Fool">
+<meta itemprop="name" content="Best Ways to Start Investing Money for the First Time | The CapitalCrest">
 <meta itemprop="description" content="Investing your money is the most reliable way to build wealth over time. If you’re a first-time investor, we’re here to help you get started. It’s time to make your money work for you.">
 <meta name="twitter:site" content="@themotleyfool">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Best Ways to Start Investing Money for the First Time | The Motley Fool">
+<meta name="twitter:title" content="Best Ways to Start Investing Money for the First Time | The CapitalCrest">
 <meta name="twitter:description" content="Investing your money is the most reliable way to build wealth over time. If you’re a first-time investor, we’re here to help you get started. It’s time to make your money work for you.">
-<meta property="og:site_name" content="The Motley Fool" />
-<meta property="og:title" content="Best Ways to Start Investing Money for the First Time | The Motley Fool" />
+<meta property="og:site_name" content="The CapitalCrest" />
+<meta property="og:title" content="Best Ways to Start Investing Money for the First Time | The CapitalCrest" />
 <meta property="og:url" content="https://www.fool.com/investing/how-to-invest/" />
 <meta property="og:description" content="Investing your money is the most reliable way to build wealth over time. If you’re a first-time investor, we’re here to help you get started. It’s time to make your money work for you." />
 <meta property="og:type" content="article" />
@@ -58,7 +58,7 @@ function OptanonWrapper(){var t;window.infotrackInitialized||void 0===window.Inf
             ],
             "publisher": {
                 "@type": "Organization",
-                "name": "The Motley Fool",
+                "name": "The CapitalCrest",
                 "url": "https://www.fool.com/",
                 "logo": {
                     "@type": "ImageObject",
@@ -92,7 +92,7 @@ function OptanonWrapper(){var t;window.infotrackInitialized||void 0===window.Inf
 <meta name="primary_tickers_companies" content="Apple" data-pitch-param="primary_tickers_companies" />
 <title>
       
-    Best Ways to Start Investing Money for the First Time | The Motley Fool
+    Best Ways to Start Investing Money for the First Time | The CapitalCrest
 
   </title>
   <style>
@@ -258,7 +258,7 @@ function OptanonWrapper(){var t;window.infotrackInitialized||void 0===window.Inf
 Help
 </a>
 <a class="cta-highlight" href="https://www.fool.com/mms/mark/th-nav-join" data-track-category="tophat-click" data-track-action="tophat" data-track-link="join-cta">
-Join The Motley Fool
+Join The CapitalCrest
 </a>
 </div>
 </div>
@@ -288,743 +288,430 @@ Join The Motley Fool
 <div class="green"></div>
 </div>
 <header class="sticky z-50 w-full border-b topnav bg-royal-purple-1100 px-24px md:px-0 border-royal-purple-700 lg:border-none" role="banner">
-<div class="flex items-center justify-between h-full topnav-wrapper">
-<a href="/" class="flex h-full logo" data-track-action="Click-tmf-logo" data-track-link="The Motley Fool Logo" data-track-category="Navigation -- Desktop">
-<img alt="The Motley Fool" src="https://g.foolcdn.com/misc-assets/logo-tmf-primary-1-magenta-purple-reversed.svg">
-</a>
-<nav class="items-stretch justify-end h-full touchonly:hidden lg:flex">
-<a class="dropdown-label text-16" style="padding: 28px 8px" href="/services/" data-track-category="Navigation -- Desktop" data-track-action="Click-our-services" data-track-link="Our Services">
-Our Services
-</a>
-<div class="flex dropdown">
-<button class="dropdown-label text-16">
-Investing Basics
-<svg viewBox="0 0 320 512">
-<title>angle-down</title>
-<path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
-</svg>
-</button>
-<div class="flex submenu">
-<div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
-<div class="submenu-column">
-<div class="font-bold uppercase pb-4px md:pb-10 text-14">Premium Services</div>
-<div class="flex flex-col text-white md:items-end bg-cyan-700 p-16px mb-12px md:flex-row" style="
-    background-image: url(https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo-background.svg);
-    background-repeat: no-repeat;
-    background-position: 260px 25px;
-  ">
-<div class="border-b border-white border-dashed md:border-b-0px md:border-r pb-12px md:pb-0px md:pr-24px">
-<div class="font-bold text-14">Stock Advisor</div>
-<div class="text-12">Our Flagship Service</div>
-<div>
-<div>
-<div class="uppercase mt-12px text-10">Return</div>
-<div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">394%</div>
-</div>
-<div>
-<div class="text-10">S&amp;P Return</div>
-<div class="font-bold tracking-tighter text-20 leading-relative-1">117%</div>
-</div>
-</div>
-</div>
-<div class="md:pl-24px pt-12px md:pt-0px">
-<div class="font-bold text-14">Rule Breakers</div>
-<div class="text-12">High-growth Stocks</div>
-<div>
-<div>
-<div class="uppercase mt-12px text-10">Return</div>
-<div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">213%</div>
-</div>
-<div>
-<div class="text-10">S&amp;P Return</div>
-<div class="font-bold tracking-tighter text-20 leading-relative-1">100%</div>
-</div>
-</div>
-</div>
-<div class="hidden md:text-center xl:block">
-<img class="hidden mx-auto md:block" width="60" src="https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo.svg" alt="" />
-<div class="italic text-10 md:mb-8px mt-12px">Returns as of 05/05/2023</div>
-<div class="inline-flex items-center font-bold rounded md:flex border-gold-600 bg-gold-600 hover:border-gold-500 hover:bg-gold-500 h-36px">
-<a class="text-white p-20px important:hover-white" href="/services/">
-View Our Services
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Investing 101</div>
-<ul class="leading-relaxed">
-<li>
-<a id="stocks-how-to-invest" href="/investing/how-to-invest/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest" data-track-link="How to Invest Money">
-How to Invest Money
-</a>
-</li>
-<li>
-<a id="stocks-what-to-invest-in" href="/investing/how-to-invest/what-to-invest-in/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-what-to-invest-in" data-track-link="What to Invest In">
-What to Invest In
-</a>
-</li>
-<li>
-<a id="stocks-how-to-invest-in-stocks" href="/investing/how-to-invest/stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-stocks" data-track-link="How to Invest in Stocks">
-How to Invest in Stocks
-</a>
-</li>
-<li>
-<a id="stocks-how-to-invest-in-index-funds" href="/investing/how-to-invest/index-funds/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-index-funds" data-track-link="How to Invest in Index Funds">
-How to Invest in Index Funds
-</a>
-</li>
-<li>
-<a id="stocks-how-to-invest-in-etfs" href="/investing/how-to-invest/etfs/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-etfs" data-track-link="How to Invest in ETFs">
-How to Invest in ETFs
-</a>
-</li>
-<li>
-<a id="stocks-how-to-real-estate" href="/investing/stock-market/market-sectors/real-estate-investing/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-real-estate" data-track-link="How to Invest in Real Estate">
-How to Invest in Real Estate
-</a>
-</li>
-<li>
-<a id="stocks-how-to-terms" href="/terms/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-terms" data-track-link="Financial Dictionary">
-Financial Dictionary
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Best Accounts</div>
-<ul class="leading-relaxed">
-<li>
-<a id="best-accounts-brokerage" href="https://www.fool.com/the-ascent/buying-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-best-accounts-brokerage" data-track-link="Best Stock Brokers">
-Best Stock Brokers
-</a>
-
-</li>
-<li>
-<a id="best-beginners-brokers" href="https://www.fool.com/the-ascent/buying-stocks/best-online-stock-brokers-beginners/" data-track-category="Navigation -- Desktop" data-track-action="Click-best-beginners-brokers" data-track-link="Best Brokers for Beginners">
-Best Brokers for Beginners
-</a>
-</li>
-<li>
-<a id="best-accounts-ira" href="https://www.fool.com/the-ascent/buying-stocks/best-brokers-iras/" data-track-category="Navigation -- Desktop" data-track-action="Click-best-accounts-ira" data-track-link="Best IRA Accounts">
-Best IRA Accounts
-</a>
-</li>
-<li>
-<a id="best-accounts-roth-ira" href="https://www.fool.com/the-ascent/buying-stocks/best-roth-ira/" data-track-category="Navigation -- Desktop" data-track-action="Click-best-accounts-roth-ira" data-track-link="Best Roth IRA Accounts">
-Best Roth IRA Accounts
-</a>
-</li>
-<li>
-<a id="best-options-brokers" href="https://www.fool.com/the-ascent/buying-stocks/best-brokers-options/" data-track-category="Navigation -- Desktop" data-track-action="Click-best-options-brokers" data-track-link="Best Options Brokers">
-Best Options Brokers
-</a>
-</li>
-<li>
-<a id="best-crypto-apps" href="/the-ascent/cryptocurrency/best-cryptocurrency-apps/" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-best-crypto-apps" data-track-link="Best Crypto Apps">
-Best Crypto Apps
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Stock Market Basics</div>
-<ul class="leading-relaxed">
-<li>
-<a id="stock-market-basics-stock-market-101" href="/investing/stock-market/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-101" data-track-link="Stock Market 101">
-Stock Market 101
-</a>
-</li>
-<li>
-<a id="stock-market-basics-typles-of-stocks" href="/investing/stock-market/types-of-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-typles-of-stocks" data-track-link="Types of Stocks">
-Types of Stocks
-</a>
-</li>
-<li>
-<a id="stock-market-basics-stock-market-sectors" href="/investing/stock-market/market-sectors/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-sectors" data-track-link="Stock Market Sectors">
-Stock Market Sectors
-</a>
-</li>
-<li>
-<a id="stock-market-basics-stock-market-indexes" href="/investing/stock-market/indexes/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-indexes" data-track-link="Stock Market Indexes">
-Stock Market Indexes
-</a>
-</li>
-<li>
-<a id="stock-market-basics-sp-500" href="/investing/stock-market/indexes/sp-500/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-sp-500" data-track-link="S&amp;P 500">
-S&amp;P 500
-</a>
-</li>
-<li>
-<a id="stock-market-basics-dow-jones" href="/investing/stock-market/indexes/dow-jones/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-dow-jones" data-track-link="Dow Jones">
-Dow Jones
-</a>
-</li>
-<li>
-<a id="stock-market-basics-nasdaq-composite" href="/investing/stock-market/indexes/nasdaq/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-nasdaq-composite" data-track-link="Nasdaq Composite">
-Nasdaq Composite
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="flex dropdown">
-<button class="dropdown-label text-16">
-Stock Market
-<svg viewBox="0 0 320 512">
-<title>angle-down</title>
-<path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
-</svg>
-</button>
-<div class="flex submenu">
-<div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
-<div class="submenu-column">
-<div class="font-bold uppercase pb-4px md:pb-10 text-14">Premium Services</div>
-<div class="flex flex-col text-white md:items-end bg-cyan-700 p-16px mb-12px md:flex-row" style="
-    background-image: url(https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo-background.svg);
-    background-repeat: no-repeat;
-    background-position: 260px 25px;
-  ">
-<div class="border-b border-white border-dashed md:border-b-0px md:border-r pb-12px md:pb-0px md:pr-24px">
-<div class="font-bold text-14">Stock Advisor</div>
-<div class="text-12">Our Flagship Service</div>
-<div>
-<div>
-<div class="uppercase mt-12px text-10">Return</div>
-<div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">394%</div>
-</div>
-<div>
-<div class="text-10">S&amp;P Return</div>
-<div class="font-bold tracking-tighter text-20 leading-relative-1">117%</div>
-</div>
-</div>
-</div>
-<div class="md:pl-24px pt-12px md:pt-0px">
-<div class="font-bold text-14">Rule Breakers</div>
-<div class="text-12">High-growth Stocks</div>
-<div>
-<div>
-<div class="uppercase mt-12px text-10">Return</div>
-<div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">213%</div>
- </div>
-<div>
-<div class="text-10">S&amp;P Return</div>
-<div class="font-bold tracking-tighter text-20 leading-relative-1">100%</div>
-</div>
-</div>
-</div>
-<div class="hidden md:text-center xl:block">
-<img class="hidden mx-auto md:block" width="60" src="https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo.svg" alt="" />
-<div class="italic text-10 md:mb-8px mt-12px">Returns as of 05/05/2023</div>
-<div class="inline-flex items-center font-bold rounded md:flex border-gold-600 bg-gold-600 hover:border-gold-500 hover:bg-gold-500 h-36px">
-<a class="text-white p-20px important:hover-white" href="/services/">
-View Our Services
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Stocks</div>
-<ul class="leading-relaxed">
-<li>
-<a id="stocks-growth-stocks" href="/investing/stock-market/types-of-stocks/growth-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-growth-stocks" data-track-link="Growth Stocks">
-Growth Stocks
-</a>
-</li>
-<li>
-<a id="stocks-value-stocks" href="/investing/stock-market/types-of-stocks/value-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-value-stocks" data-track-link="Value Stocks">
-Value Stocks
-</a>
-</li>
-<li>
-<a id="stocks-dividend-stocks" href="/investing/stock-market/types-of-stocks/dividend-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-dividend-stocks" data-track-link="Dividend Stocks">
-Dividend Stocks
-</a>
-</li>
-<li>
-<a id="stocks-small-cap-stocks" href="/investing/stock-market/types-of-stocks/small-cap-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-small-cap-stocks" data-track-link="Small Cap Stocks">
-Small Cap Stocks
-</a>
-</li>
-<li>
-<a id="stocks-large-cap-stocks" href="/investing/stock-market/types-of-stocks/large-cap-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-large-cap-stocks" data-track-link="Large Cap Stocks">
-Large Cap Stocks
-</a>
-</li>
-<li>
-<a id="stocks-blue-chip-stocks" href="https://www.fool.com/investing/stock-market/types-of-stocks/blue-chip-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-blue-chip-stocks" data-track-link="Blue Chip Stocks">
-Blue Chip Stocks
-</a>
-</li>
-<li>
-<a id="stocks-how-to-buy-stocks" href="/investing/how-to-invest/stocks/how-to-buy-stock/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-buy-stocks" data-track-link="How to Buy Stocks">
-How to Buy Stocks
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Industries to Invest In</div>
-<ul class="leading-relaxed">
-<li>
-<a id="industries-to-invest-consumer-goods" href="/investing/stock-market/market-sectors/consumer-discretionary/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-consumer-goods" data-track-link="Consumer Goods">
-Consumer Goods
-</a>
-</li>
-<li>
-<a id="industries-to-invest-technology" href="/investing/stock-market/market-sectors/information-technology/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-technology" data-track-link="Technology">
-Technology
-</a>
-</li>
-<li>
-<a id="industries-to-invest-energy" href="/investing/stock-market/market-sectors/energy/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-energy" data-track-link="Energy">
-Energy
-</a>
-</li>
-<li>
-<a id="industries-to-invest-healthcare" href="/investing/stock-market/market-sectors/healthcare/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-healthcare" data-track-link="Healthcare">
-Healthcare
-</a>
-</li>
-<li>
-<a id="industries-to-invest-financial" href="/investing/stock-market/market-sectors/financials/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-financial" data-track-link="Financial">
-Financial
-</a>
-</li>
-<li>
-<a id="industries-to-invest-crypto" href="/investing/stock-market/market-sectors/financials/cryptocurrency-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-crypto" data-track-link="Cryptocurrency">
-Cryptocurrency
-</a>
-</li>
-<li>
-<a id="industries-to-invest-nfts" href="/investing/stock-market/market-sectors/financials/non-fungible-tokens/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-nfts" data-track-link="NFTs">
-NFTs
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">News</div>
-<ul class="leading-relaxed">
-<li>
-<a id="news-top-stocks" href="/investing/top-stocks-to-buy/" data-track-category="Navigation -- Desktop" data-track-action="Click-news-top-stocks" data-track-link="Top Stocks to Buy in 2023">
-Top Stocks to Buy in 2023
-</a>
-</li>
-<li>
-<a id="news-stock-market-news" href="/investing-news/" data-track-category="Navigation -- Desktop" data-track-action="Click-news-stock-market-news" data-track-link="Stock Market News">
-Stock Market News
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="flex dropdown">
-<button class="dropdown-label text-16">
-Retirement
-<svg viewBox="0 0 320 512">
-<title>angle-down</title>
-<path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
-</svg>
-</button>
-<div class="flex submenu">
-<div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Getting Started</div>
-<ul class="leading-relaxed">
-<li>
-<a id="retire-retirement-101" href="/retirement/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-retirement-101" data-track-link="Retirement 101">
-Retirement 101
-</a>
-</li>
-<li>
-<a id="retire-why-start" href="/investing/how-to-invest/stocks/compound-interest/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-why-start" data-track-link="Why to Start Saving Now">
-Why to Start Saving Now
-</a>
-</li>
-<li>
-<a id="retire-types-of-accounts" href="/retirement/plans/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-types-of-accounts" data-track-link="Types of Retirement Accounts">
-Types of Retirement Accounts
-</a>
-</li>
-<li>
-<a id="retire-401k-basics" href="/retirement/plans/401k/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-401k-basics" data-track-link="401k Basics">
-401k Basics
-</a>
-</li>
-<li>
-<a id="retire-ira-basics" href="https://www.fool.com/retirement/plans/ira/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-ira-basics" data-track-link="IRA Basics">
-IRA Basics
-</a>
-</li>
-<li>
-<a id="retire-hsa-basics" href="/retirement/plans/hsa/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-hsa-basics" data-track-link="HSA Basics">
-HSA Basics
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Planning for Retirement</div>
-<ul class="leading-relaxed">
-<li>
-<a id="retire-how-much-needed" href="/retirement/how-much-do-i-need/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-how-much-needed" data-track-link="How Much Do I Need to Retire?">
-How Much Do I Need to Retire?
-</a>
-</li>
-<li>
-<a id="retire-when" href="/retirement/strategies/when-can-i-retire/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-when" data-track-link="When To Retire">
-When To Retire
-</a>
-</li>
-<li>
-<a id="retire-social-security" href="/retirement/social-security/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-social-security" data-track-link="Factoring in Social Security">
-Factoring in Social Security
-</a>
-</li>
-<li>
-<a id="retire-full-retirement-age" href="/retirement/social-security/full-retirement-age/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-full-retirement-age" data-track-link="What is the Full Retirement Age?">
-What is the Full Retirement Age?
-</a>
-</li>
-<li>
-<a id="retire-investings" href="/retirement/strategies/asset-allocation-by-age/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-investings" data-track-link="Investing for Retirement">
-Investing for Retirement
-</a>
-</li>
-<li>
-<a id="retire-strategies" href="/retirement/strategies/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-strategies" data-track-link="Retirement Strategies">
-Retirement Strategies
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Retired: What Now?</div>
-<ul class="leading-relaxed">
-<li>
-<a id="retire-year" href="/retirement/complete-guide/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-year" data-track-link="Retiring in 2023">
-Retiring in 2023
-</a>
-</li>
-<li>
-<a id="retire-withdrawl-strategies" href="/retirement/strategies/withdrawal/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-withdrawl-strategies" data-track-link="Withdrawal Strategies">
-Withdrawal Strategies
-</a>
-</li>
-<li>
-<a id="retire-healthcare" href="/retirement/healthcare-in-retirement/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-healthcare" data-track-link="Healthcare in Retirement">
-Healthcare in Retirement
-</a>
-</li>
-<li>
-<a id="retire-taxes" href="/retirement/taxes/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-taxes" data-track-link="Taxes in Retirement">
-Taxes in Retirement
-</a>
-</li>
-<li>
-<a id="retire-estate" href="/retirement/estate-planning/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-estate" data-track-link="Estate Planning">
-Estate Planning
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="flex dropdown">
-<button class="dropdown-label text-16">
-Personal Finance
-<svg viewBox="0 0 320 512">
-<title>angle-down</title>
-<path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
-</svg>
-</button>
-<div class="flex submenu">
-<div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Credit Cards</div>
-<ul class="leading-relaxed">
-<li>
-<a id="asc-credit-cards" href="https://www.fool.com/the-ascent/credit-cards/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-credit-cards" data-track-link="Best Credit Cards">
-Best Credit Cards
-</a>
-</li>
-<li>
-<a id="asc-cash-back-cards" href="https://www.fool.com/the-ascent/credit-cards/best-cash-back-credit-card/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-cash-back-cards" data-track-link="Best Cash Back Cards">
-Best Cash Back Cards
-</a>
-</li>
-<li>
-<a id="asc-best-balance-transfer-cards" href="https://www.fool.com/the-ascent/credit-cards/best-balance-transfer-credit-cards/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-balance-transfer-cards" data-track-link="Best Balance Transfer Cards">
-Best Balance Transfer Cards
-</a>
-</li>
-<li>
-<a id="asc-best-travel-credit-cards" href="https://www.fool.com/the-ascent/credit-cards/best-travel-rewards-credit-cards/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-travel-credit-cards" data-track-link="Best Travel Credit Cards">
-Best Travel Credit Cards
-</a>
-</li>
-<li>
-<a id="asc-best-zero-interest-cards" href="https://www.fool.com/the-ascent/credit-cards/best-zero-interest-cards/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-zero-interest-cards" data-track-link="Best 0% Credit Cards">
-Best 0% Credit Cards
-</a>
-</li>
-<li>
-<a id="asc-rewards-cards" href="https://www.fool.com/the-ascent/credit-cards/best-rewards-credit-cards/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-rewards-cards" data-track-link="Best Rewards Cards">
-Best Rewards Cards
-</a>
-</li>
-<li>
-<a id="asc-best-cards-for-bad-credit" href="https://www.fool.com/the-ascent/credit-cards/bad-credit/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-cards-for-bad-credit" data-track-link="Best Cards for Bad Credit">
-Best Cards for Bad Credit
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Bank &amp; Loans</div>
-<ul class="leading-relaxed">
-<li>
-<a id="asc-best-savings-accounts" href="https://www.fool.com/the-ascent/banks/best-savings-accounts/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-savings-accounts" data-track-link="Best Savings Accounts">
-Best Savings Accounts
-</a>
-</li>
-<li>
-<a id="asc-best-checking-accounts" href="https://www.fool.com/the-ascent/banks/checking-accounts/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-checking-accounts" data-track-link="Best Checking Accounts">
-Best Checking Accounts
-</a>
-</li>
-<li>
-<a id="asc-best-cd-rates" href="https://www.fool.com/the-ascent/banks/best-cd-rates/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-cd-rates" data-track-link="Best CD Rates">
-Best CD Rates
-</a>
-</li>
-<li>
-<a id="asc-personal-loans" href="https://www.fool.com/the-ascent/personal-loans/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-personal-loans" data-track-link="Best Personal Loans">
-Best Personal Loans
-</a>
-</li>
-<li>
-<a id="asc-debt-consolidation-loans" href="https://www.fool.com/the-ascent/personal-loans/best-personal-loans-debt-consolidation/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-debt-consolidation-loans" data-track-link="Best Debt Consolidation Loans">
-Best Debt Consolidation Loans
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Homebuying</div>
-<ul class="leading-relaxed">
-<li>
-<a id="asc-best-mortgage-lenders" href="https://www.fool.com/the-ascent/mortgages/best-mortgage-lenders" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-mortgage-lenders" data-track-link="Best Mortgage Lenders">
-Best Mortgage Lenders
-</a>
-</li>
-<li>
-<a id="asc-mortgage-refi-lenders" href="https://www.fool.com/the-ascent/mortgages/best-refinance-lenders/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-mortgage-refi-lenders" data-track-link="Best Mortgage Refi Lenders">
-Best Mortgage Refi Lenders
-</a>
-</li>
-<li>
-<a id="asc-lenders-for-first-time-buyers" href="https://www.fool.com/the-ascent/mortgages/best-mortgage-lenders-first-time-homebuyers/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-lenders-for-first-time-buyers" data-track-link="Best Lenders for First-time Buyers">
-Best Lenders for First-time Buyers
-</a>
-</li>
-<li>
-<a id="asc-fha-mortgage-lenders" href="https://www.fool.com/the-ascent/mortgages/best-lenders-fha-loans/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-fha-mortgage-lenders" data-track-link="Best FHA Mortgage Lenders">
-Best FHA Mortgage Lenders
-</a>
-</li>
-<li>
-<a id="asc-current-mortgage-rates" href="https://www.fool.com/the-ascent/mortgages/rates/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-current-mortgage-rates" data-track-link="Current Mortgage Rates">
-Current Mortgage Rates
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Guides</div>
-<ul class="leading-relaxed">
-<li>
-<a id="asc-credit-cards-101" href="https://www.fool.com/the-ascent/credit-cards/how-credit-cards-work-beginners-guide/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-credit-cards-101" data-track-link="Credit Cards 101">
-Credit Cards 101
-</a>
-</li>
-<li>
-<a id="asc-bank-accounts-101" href="https://www.fool.com/the-ascent/banks/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-bank-accounts-101" data-track-link="Bank Accounts 101">
-Bank Accounts 101
-</a>
-</li>
-<li>
-<a id="asc-home-laons-101" href="https://www.fool.com/the-ascent/mortgages/beginners-guide-home-loans/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-home-laons-101" data-track-link="Home Loans 101">
-Home Loans 101
-</a>
-</li>
-<li>
-<a id="asc-pay-off-debt" href="https://www.fool.com/the-ascent/personal-finance/how-to-pay-off-debt/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-pay-off-debt" data-track-link="Pay Off Debt">
-Pay Off Debt
-</a>
-</li>
-<li>
-<a id="asc-increase-credit-score" href="https://www.fool.com/the-ascent/personal-finance/how-to-increase-credit-score/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-increase-credit-score" data-track-link="Increase Your Credit Score">
-Increase Your Credit Score
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="flex dropdown">
-<button class="dropdown-label text-16">
-About Us
-<svg viewBox="0 0 320 512">
-<title>angle-down</title>
-<path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
-</svg>
-</button>
-<div class="flex submenu">
-<div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
-<div class="submenu-column">
-<div class="w-300 max-w-full mr-16">
-<div class="uppercase font-bold text-14 pb-6">
-Our Purpose:
-</div>
-<div class="italic text-18 leading-relative-2 mb-8px">
-To make the world smarter, happier, and richer.
-</div>
-<p>Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.</p>
-</div>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Who Is the Motley Fool?</div>
-<ul class="leading-relaxed">
-<li>
-<a id="community-about" href="/about/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-about" data-track-link="About Us">
-About Us
-</a>
-</li>
-<li>
-<a id="community-investing-philosophy" href="/about/investing-philosophy/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-investing-philosophy" data-track-link="Investing Philosophy">
-Investing Philosophy
-</a>
-</li>
-<li>
-<a id="community-reviews" href="/about/reviews/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-reviews" data-track-link="Reviews">
-Reviews
-</a>
-</li>
-<li>
-<a id="community-foundation" href="https://foolfoundation.org/fool" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-community-foundation" data-track-link="The Motley Fool Foundation">
-The Motley Fool Foundation
-</a>
-</li>
-<li>
-<a id="community-media" href="/contact/newsroom/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-media" data-track-link="Newsroom">
-Newsroom
-</a>
-</li>
-<li>
-<a id="community-contactus" href="/contact/customer-service" data-track-category="Navigation -- Desktop" data-track-action="Click-community-contactus" data-track-link="Contact Us">
-Contact Us
-</a>
-</li>
-<li>
-<a id="about-publishing-standards" href="https://www.fool.com/about/the-motley-fools-publishing-standards/" data-track-category="Navigation -- Desktop" data-track-action="Click-about-publishing-standards" data-track-link="Publishing Standards">
-Publishing Standards
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Fool Podcasts</div>
-<ul class="leading-relaxed">
-<li>
-<a id="community-podcast-home" href="/podcasts/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-podcast-home" data-track-link="Podcasts Home">
-Podcasts Home
-</a>
-</li>
-<li>
-<a id="community-podcast-mfm" href="/podcasts/motley-fool-money/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-podcast-mfm" data-track-link="Motley Fool Money">
-Motley Fool Money
-</a>
-</li>
-<li>
-<a id="community-podcast-rbi" href="/podcasts/rule-breaker-investing/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-podcast-rbi" data-track-link="Rule Breaker Investing">
-Rule Breaker Investing
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Social Media</div>
-<ul class="leading-relaxed">
-<li>
-<a id="community-facebook" href="https://www.facebook.com/themotleyfool/" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-community-facebook" data-track-link="Facebook">
-Facebook
-</a>
-</li>
-<li>
-<a id="community-twitter" href="https://twitter.com/themotleyfool" data-track-category="Navigation -- Desktop" data-track-action="Click-community-twitter" data-track-link="Twitter">
-Twitter
-</a>
-</li>
-<li>
-<a id="community-youtube" href="https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag" data-track-category="Navigation -- Desktop" data-track-action="Click-community-youtube" data-track-link="YouTube">
-YouTube
-</a>
-</li>
-<li>
-<a id="community-boards" href="https://discussion.fool.com/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-boards" data-track-link="Discussion Boards">
-Discussion Boards
-</a>
-</li>
-<li>
-<a id="community-caps" href="https://caps.fool.com/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-caps" data-track-link="CAPS - Stock Picking Community">
-CAPS - Stock Picking Community
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Other Services</div>
-<ul class="leading-relaxed">
-<li>
-<a id="about-ascent" href="https://www.fool.com/the-ascent/" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-about-ascent" data-track-link="The Ascent">
-The Ascent
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="items-center rounded touchonly:hidden lg:hidden topnav-picks xl:flex">
-<a href="https://api.fool.com/infotron/splitter/route/article-template-button?apikey=5c8e52dd-1bea-455e-87f5-d5506e590f21" class="nav-link-stock-picks text-14" data-track-category="Navigation -- Desktop" data-track-action="Click-topnav-picks" data-track-link="Latest Stock Picks">
-Latest Stock Picks
-</a>
-</div>
-</nav>
-<div class="items-center touchonly:flex lg:hidden">
-<button id="mobile-nav-toggler" style="line-height:0">
-<svg class="text-white w-32px h-32px" viewBox="0 0 448 512">
-<title>Bars</title>
-<path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path>
-</svg>
-<svg class="hidden text-white w-32px h-32px" viewBox="0 0 320 512">
-<title>Times</title>
-<path d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z"></path>
-</svg>
-</button>
-</div>
-</div>
-</header>
+    <div class="flex items-center justify-between h-full topnav-wrapper">
+    <a href="/" class="flex h-full logo" data-track-action="Click-tmf-logo" data-track-link="CapitalCrest Logo" data-track-category="Navigation -- Desktop">
+    <img alt="CapitalCrest" src="https://media.istockphoto.com/id/1346891566/photo/brand-design-presentation-concept.jpg?b=1&s=170667a&w=0&k=20&c=H6288Thk1q8Sq3H4WbjDTzFiCcNufOlh9_Hq1ODJ6ek=">
+    </a>
+    <nav class="items-stretch justify-end h-full touchonly:hidden lg:flex">
+    <a class="dropdown-label text-16" style="padding: 28px 8px" href="/services" data-track-category="Navigation -- Desktop" data-track-action="Click-our-services" data-track-link="Our Services">
+    Our Services
+    </a>
+    <div class="flex dropdown">
+    <button class="dropdown-label text-16">
+    Investing Basics
+    <svg viewBox="0 0 320 512">
+    <title>angle-down</title>
+    <path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
+    </svg>
+    </button>
+    <div class="flex submenu">
+    <div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
+    <div class="submenu-column">
+    <div class="font-bold uppercase pb-4px md:pb-10 text-14">Premium Services</div>
+    <div class="flex flex-col text-white md:items-end bg-cyan-700 p-16px mb-12px md:flex-row" style="
+        background-image: url(https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo-background.svg);
+        background-repeat: no-repeat;
+        background-position: 260px 25px;
+      ">
+    <div class="border-b border-white border-dashed md:border-b-0px md:border-r pb-12px md:pb-0px md:pr-24px">
+    <div class="font-bold text-14">Stock Advisor</div>
+    <div class="text-12">Our Flagship Service</div>
+    <div>
+    <div>
+    <div class="uppercase mt-12px text-10">Return</div>
+    <div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">395%</div>
+    </div>
+    <div>
+    <div class="text-10">S&amp;P Return</div>
+    <div class="font-bold tracking-tighter text-20 leading-relative-1">118%</div>
+    </div>
+    </div>
+    </div>
+    <div class="md:pl-24px pt-12px md:pt-0px">
+    <div class="font-bold text-14">Rule Breakers</div>
+    <div class="text-12">High-growth Stocks</div>
+    <div>
+    <div>
+    <div class="uppercase mt-12px text-10">Return</div>
+    <div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">212%</div>
+    </div>
+    <div>
+    <div class="text-10">S&amp;P Return</div>
+    <div class="font-bold tracking-tighter text-20 leading-relative-1">101%</div>
+    </div>
+    </div>
+    </div>
+    <div class="hidden md:text-center xl:block">
+    <img class="hidden mx-auto md:block" width="60" src="https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo.svg" alt="" />
+    <div class="italic text-10 md:mb-8px mt-12px">Returns as of 05/05/2023</div>
+    <div class="inline-flex items-center font-bold rounded md:flex border-gold-600 bg-gold-600 hover:border-gold-500 hover:bg-gold-500 h-36px">
+    <a class="text-white p-20px important:hover-white" href="/services">
+    View Our Services
+    </a>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Investing 101</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="stocks-how-to-invest" href="/how" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest" data-track-link="">
+    How to Invest Money
+    </a>
+    </li>
+    <li>
+    <a id="stocks-what-to-invest-in" href="/what" data-track-category="" data-track-action="" data-track-link="">
+    What to Invest In
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-invest-in-stocks" href="/stock" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-stocks" data-track-link="How to Invest in Stocks">
+    How to Invest in Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-invest-in-index-funds" href="/indexfund" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-index-funds" data-track-link="How to Invest in Index Funds">
+    How to Invest in Index Funds
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-invest-in-etfs" href="/etf" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-etfs" data-track-link="How to Invest in ETFs">
+    How to Invest in ETFs
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-real-estate" href="/real" data-track-category="Navigation -- Desktop" data-track-action="" data-track-link="How to Invest in Real Estate">
+    How to Invest in Real Estate
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-terms" href="/fin" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-terms" data-track-link="Financial Dictionary">
+    Financial Dictionary
+    </a>
+    </li>
+    </ul>
+    </div>
+    
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Stock Market Basics</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="stock-market-basics-stock-market-101" href="/stock_market" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-101" data-track-link="Stock Market 101">
+    Stock Market 101
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-typles-of-stocks" href="/types" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-typles-of-stocks" data-track-link="Types of Stocks">
+    Types of Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-stock-market-sectors" href="/sector" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-sectors" data-track-link="Stock Market Sectors">
+    Stock Market Sectors
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-stock-market-indexes" href="/indexes" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-indexes" data-track-link="Stock Market Indexes">
+    Stock Market Indexes
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-sp-500" href="/sp" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-sp-500" data-track-link="S&amp;P 500">
+    S&amp;P 500
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-dow-jones" href="/dow" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-dow-jones" data-track-link="Dow Jones">
+    Dow Jones
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-nasdaq-composite" href="/nas" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-nasdaq-composite" data-track-link="Nasdaq Composite">
+    Nasdaq Composite
+    </a>
+    </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="flex dropdown">
+    <button class="dropdown-label text-16">
+    Stock Market
+    <svg viewBox="0 0 320 512">
+    <title>angle-down</title>
+    <path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
+    </svg>
+    </button>
+    <div class="flex submenu">
+    <div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
+    <div class="submenu-column">
+    <div class="font-bold uppercase pb-4px md:pb-10 text-14">Premium Services</div>
+    <div class="flex flex-col text-white md:items-end bg-cyan-700 p-16px mb-12px md:flex-row" style="
+        background-image: url(https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo-background.svg);
+        background-repeat: no-repeat;
+        background-position: 260px 25px;
+      ">
+    <div class="border-b border-white border-dashed md:border-b-0px md:border-r pb-12px md:pb-0px md:pr-24px">
+    <div class="font-bold text-14">Stock Advisor</div>
+    <div class="text-12">Our Flagship Service</div>
+    <div>
+    <div>
+    <div class="uppercase mt-12px text-10">Return</div>
+    <div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">395%</div>
+    </div>
+    <div>
+    <div class="text-10">S&amp;P Return</div>
+    <div class="font-bold tracking-tighter text-20 leading-relative-1">118%</div>
+    </div>
+    </div>
+    </div>
+    <div class="md:pl-24px pt-12px md:pt-0px">
+    <div class="font-bold text-14">Rule Breakers</div>
+    <div class="text-12">High-growth Stocks</div>
+    <div>
+    <div>
+    <div class="uppercase mt-12px text-10">Return</div>
+    <div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">212%</div>
+    </div>
+    <div>
+    <div class="text-10">S&amp;P Return</div>
+    <div class="font-bold tracking-tighter text-20 leading-relative-1">101%</div>
+    </div>
+    </div>
+    </div>
+    <div class="hidden md:text-center xl:block">
+    <img class="hidden mx-auto md:block" width="60" src="https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo.svg" alt="" />
+    <div class="italic text-10 md:mb-8px mt-12px">Returns as of 05/05/2023</div>
+    <div class="inline-flex items-center font-bold rounded md:flex border-gold-600 bg-gold-600 hover:border-gold-500 hover:bg-gold-500 h-36px">
+    <a class="text-white p-20px important:hover-white" href="/services/">
+    View Our Services
+    </a>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Stocks</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="stocks-growth-stocks" href="/growth" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-growth-stocks" data-track-link="Growth Stocks">
+    Growth Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-value-stocks" href="/value" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-value-stocks" data-track-link="Value Stocks">
+    Value Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-dividend-stocks" href="/dividend" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-dividend-stocks" data-track-link="Dividend Stocks">
+    Dividend Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-small-cap-stocks" href="/small" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-small-cap-stocks" data-track-link="Small Cap Stocks">
+    Small Cap Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-large-cap-stocks" href="/large" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-large-cap-stocks" data-track-link="Large Cap Stocks">
+    Large Cap Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-blue-chip-stocks" href="/blue" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-blue-chip-stocks" data-track-link="Blue Chip Stocks">
+    Blue Chip Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-buy-stocks" href="/howto" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-buy-stocks" data-track-link="How to Buy Stocks">
+    How to Buy Stocks
+    </a>
+    </li>
+    </ul>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Industries to Invest In</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="industries-to-invest-consumer-goods" href="/consumer" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-consumer-goods" data-track-link="Consumer Goods">
+    Consumer Goods
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-technology" href="/tech" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-technology" data-track-link="Technology">
+    Technology
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-energy" href="/energy" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-energy" data-track-link="Energy">
+    Energy
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-healthcare" href="/health" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-healthcare" data-track-link="Healthcare">
+    Healthcare
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-financial" href="/financial" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-financial" data-track-link="Financial">
+    Financial
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-crypto" href="/to" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-crypto" data-track-link="Cryptocurrency">
+    Cryptocurrency
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-nfts" href="/nft" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-nfts" data-track-link="NFTs">
+    NFTs
+    </a>
+    </li>
+    </ul>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">News</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="news-top-stocks" href="/to" data-track-category="Navigation -- Desktop" data-track-action="Click-news-top-stocks" data-track-link="Top Stocks to Buy in 2023">
+    Top Stocks to Buy in 2023
+    </a>
+    </li>
+    <li>
+    <a id="news-stock-market-news" href="/news" data-track-category="Navigation -- Desktop" data-track-action="Click-news-stock-market-news" data-track-link="Stock Market News">
+    Stock Market News
+    </a>
+    </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    
+    <div class="flex dropdown">
+    <button class="dropdown-label text-16">
+    About Us
+    <svg viewBox="0 0 320 512">
+    <title>angle-down</title>
+    <path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
+    </svg>
+    </button>
+    <div class="flex submenu">
+    <div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
+    <div class="submenu-column">
+    <div class="w-300 max-w-full mr-16">
+    <div class="uppercase font-bold text-14 pb-6">
+    Our Purpose:
+    </div>
+    <div class="italic text-18 leading-relative-2 mb-8px">
+    To make the world smarter, happier, and richer.
+    </div>
+    <p>Founded in 1993 by brothers Tom and David Gardner,CapitalCrest helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.</p>
+    </div>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Who IsCapitalCrest?</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="community-about" href="/about" data-track-category="Navigation -- Desktop" data-track-action="Click-community-about" data-track-link="About Us">
+    About Us
+    </a>
+    </li>
+    <li>
+    <a id="community-investing-philosophy" href="/phy" data-track-category="Navigation -- Desktop" data-track-action="Click-community-investing-philosophy" data-track-link="Investing Philosophy">
+    Investing Philosophy
+    </a>
+    </li>
+    <li>
+    <a id="community-reviews" href="/reviews" data-track-category="Navigation -- Desktop" data-track-action="Click-community-reviews" data-track-link="Reviews">
+    Reviews
+    </a>
+    </li>
+    <li>
+    <a id="community-foundation" href="/foo" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-community-foundation" data-track-link="CapitalCrest Foundation">
+    CapitalCrest Foundation
+    </a>
+    </li>
+    <li>
+    <a id="community-media" href="/room" data-track-category="Navigation -- Desktop" data-track-action="Click-community-media" data-track-link="Newsroom">
+    Newsroom
+    </a>
+    </li>
+    <li>
+    <a id="community-contactus" href="/contact" data-track-category="Navigation -- Desktop" data-track-action="Click-community-contactus" data-track-link="Contact Us">
+    Contact Us
+    </a>
+    </li>
+    
+    </ul>
+    </div>
+    
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Social Media</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="community-facebook" href="" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-community-facebook" data-track-link="Facebook">
+    Facebook
+    </a>
+    </li>
+    <li>
+    <a id="community-twitter" href="" data-track-category="Navigation -- Desktop" data-track-action="Click-community-twitter" data-track-link="Twitter">
+    Twitter
+    </a>
+    </li>
+    <li>
+    <a id="community-youtube" href="" data-track-category="Navigation -- Desktop" data-track-action="Click-community-youtube" data-track-link="YouTube">
+    YouTube
+    </a>
+    </li>
+    <li>
+    <a id="community-boards" href="" data-track-category="Navigation -- Desktop" data-track-action="Click-community-boards" data-track-link="Discussion Boards">
+    Discussion Boards
+    </a>
+    </li>
+    <li>
+    <a id="community-caps" href="" data-track-category="Navigation -- Desktop" data-track-action="Click-community-caps" data-track-link="CAPS - Stock Picking Community">
+    CAPS - Stock Picking Community
+    </a>
+    </li>
+    </ul>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Other Services</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="about-ascent" href="" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-about-ascent" data-track-link="The Ascent">
+    The Ascent
+    </a>
+    </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="items-center rounded touchonly:hidden lg:hidden topnav-picks xl:flex">
+    <a href="/latest" class="nav-link-stock-picks text-14" data-track-category="Navigation -- Desktop" data-track-action="Click-topnav-picks" data-track-link="Latest Stock Picks">
+    Latest Stock Picks
+    </a>
+    </div>
+    </nav>
+    <div class="items-center touchonly:flex lg:hidden">
+    <button id="mobile-nav-toggler" style="line-height:0">
+    <svg class="text-white w-32px h-32px" viewBox="0 0 448 512">
+    <title>Bars</title>
+    <path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path>
+    </svg>
+    <svg class="hidden text-white w-32px h-32px" viewBox="0 0 320 512">
+    <title>Times</title>
+    <path d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z"></path>
+    </svg>
+    </button>
+    </div>
+    </div>
+    </header>
 <div id="mobile-nav-backdrop" class="fixed hidden w-full h-full bg-gray-600 opacity-75"></div>
 <nav id="mobile-nav-container" class="z-40 hidden w-full bg-royal-purple-1100 px-24px pb-24px">
 <div class="relative flex items-center justify-between pr-24px bg-royal-purple-700 search-box ">
@@ -1619,7 +1306,7 @@ Increase Your Credit Score
 </svg>
 </button>
 <ul class="hidden leading-relaxed border-t border-b mobile-submenu border-royal-purple-700 pb-20px">
-<div class="font-bold uppercase mt-28px text-14 pb-4px">Who Is the Motley Fool?</div>
+<div class="font-bold uppercase mt-28px text-14 pb-4px">Who Is the CapitalCrest?</div>
 <ul>
 <li>
 <a class="block text-white py-4px" href="/about/" data-track-category="Navigation -- Mobile" data-track-action="Click-community-about" data-track-link="About Us">
@@ -1637,8 +1324,8 @@ Reviews
 </a>
 </li>
 <li>
-<a class="block text-white py-4px" href="https://foolfoundation.org/fool" data-track-category="Navigation -- Mobile" data-track-action="Click-community-foundation" data-track-link="The Motley Fool Foundation">
-The Motley Fool Foundation
+<a class="block text-white py-4px" href="https://foolfoundation.org/fool" data-track-category="Navigation -- Mobile" data-track-action="Click-community-foundation" data-track-link="The CapitalCrest Foundation">
+The CapitalCrest Foundation
 </a>
 </li>
 <li>
@@ -1665,8 +1352,8 @@ Podcasts Home
 </a>
 </li>
 <li>
-<a class="block text-white py-4px" href="/podcasts/motley-fool-money/" data-track-category="Navigation -- Mobile" data-track-action="Click-community-podcast-mfm" data-track-link="Motley Fool Money">
-Motley Fool Money
+<a class="block text-white py-4px" href="/podcasts/motley-fool-money/" data-track-category="Navigation -- Mobile" data-track-action="Click-community-podcast-mfm" data-track-link="CapitalCrest Money">
+CapitalCrest Money
 </a>
 </li>
 <li>
@@ -1719,7 +1406,7 @@ Our Purpose:
 <div class="italic text-18 leading-relative-2 mb-8px">
 To make the world smarter, happier, and richer.
 </div>
-<p>Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.</p>
+<p>Founded in 1993 by brothers Tom and David Gardner, The CapitalCrest helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.</p>
 </div>
 </div>
 </ul>
@@ -1737,8 +1424,8 @@ Help
 </a>
 </li>
 <li class="border-b border-royal-purple-700 mb-24px">
-<a class="block py-20px text-magenta-700 text-14" href="https://api.fool.com/infotron/splitter/route/article-template-button?apikey=5c8e52dd-1bea-455e-87f5-d5506e590f21" data-track-category="Navigation -- Mobile" data-track-action="Click-m-topnav-join" data-track-link="Join The Motley Fool">
-Join The Motley Fool
+<a class="block py-20px text-magenta-700 text-14" href="https://api.fool.com/infotron/splitter/route/article-template-button?apikey=5c8e52dd-1bea-455e-87f5-d5506e590f21" data-track-category="Navigation -- Mobile" data-track-action="Click-m-topnav-join" data-track-link="Join The CapitalCrest">
+Join The CapitalCrest
 </a>
 </li>
 </ul>
@@ -1759,17 +1446,17 @@ Smarter, Happier, and Richer
 </h1>
 </div>
 <div class="jester-cap flex-valign flex-center">
-<img src="https://m.foolcdn.com/media/the-blueprint/images/tmf-cap.original.png" alt="Motley Fool Jester Cap" />
+<img src="https://m.foolcdn.com/media/the-blueprint/images/tmf-cap.original.png" alt="CapitalCrest Jester Cap" />
 </div>
 <div class="content-body">
 <div class="name-intro">
 <h2>“What’s in a Name?”</h2>
-<p>The Motley Fool’s name comes from William Shakespeare’s play “As You Like It”. The court jester, known as the Fool, could speak the truth to the king and queen without having his head lopped off. The Fools of yore entertained the court with humor that instructed as it amused. More importantly, the Fool was never afraid to question conventional wisdom. In the same way, we aim to speak the truth about money and investing...and to make financial guidance accessible to people of all backgrounds and experience levels.</p>
+<p>The CapitalCrest’s name comes from William Shakespeare’s play “As You Like It”. The court jester, known as the Fool, could speak the truth to the king and queen without having his head lopped off. The Fools of yore entertained the court with humor that instructed as it amused. More importantly, the Fool was never afraid to question conventional wisdom. In the same way, we aim to speak the truth about money and investing...and to make financial guidance accessible to people of all backgrounds and experience levels.</p>
 </div>
 <h2>Who We Are</h2>
-<p>At The Motley Fool, our purpose is to make the world smarter, happier, and richer. We help millions of people around the world achieve their financial goals every day. We believe in treating every dollar as an investment in the future you want to create. We believe that investing in great businesses, for the long term, is the most effective path to wealth. We strive to fulfill our purpose by truly serving every Fool, from our employees to our members to our community. That’s why in all our work, we endeavor to follow the “Golden Rule” of treating others as we ourselves would wish to be treated.</p>
+<p>At The CapitalCrest, our purpose is to make the world smarter, happier, and richer. We help millions of people around the world achieve their financial goals every day. We believe in treating every dollar as an investment in the future you want to create. We believe that investing in great businesses, for the long term, is the most effective path to wealth. We strive to fulfill our purpose by truly serving every Fool, from our employees to our members to our community. That’s why in all our work, we endeavor to follow the “Golden Rule” of treating others as we ourselves would wish to be treated.</p>
 <h2>What We Do</h2>
-<p>The Motley Fool provides free and premium investment guidance to millions of individual investors around the world on fool.com (the site you’re on right now!). Here’s how we do it:</p>
+<p>The CapitalCrest provides free and premium investment guidance to millions of individual investors around the world on fool.com (the site you’re on right now!). Here’s how we do it:</p>
 <ul>
 <li><strong>Premium membership</strong> services that provide stock recommendations, detailed analysis of companies, model portfolios, live streaming video during market hours, and more</li>
 <li><strong>Free market news and commentary</strong> with hundreds of new articles published each week</li>
@@ -1789,7 +1476,7 @@ provides market beating stock recommendations from our flagship service.
 </a>
 <a class="card orange" href="https://www.fool.com/premium/rule-breakers/landing/" target="_blank">
 <div class="svg-wrapper">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2279.67 401.22"><g id="Editable_Text" data-name="Editable Text"><g id="Primary"><path d="M721,118.56h63.78c30.82,0,56,23.58,56,55.74,0,24.93-14.74,45-35.65,53.07l45,78H826.33l-42.07-74H741.91v74H721Zm61.64,93.53c21.44,0,37.25-16.08,37.25-37.79,0-20.63-15.28-36.45-35.91-36.45H741.91v74.24Z" /><path d="M870.82,170.28h19.83v80.94c0,25.73,14.47,38.86,36.72,38.86,22.51,0,37-13.13,37-39.13V170.28h19.83v80.94c0,37.79-24.65,57.35-57.62,57.35-31.89,0-55.74-18.76-55.74-55.47Z" /><path d="M1011.78,118.56h19.84v186.8h-19.84Z" /><path d="M1054.93,238.36c0-43.42,28.94-71.56,67.54-71.56,37.52,0,62.17,29.75,62.17,66.73,0,0,0,4.56-.26,8.58H1074.76c1.07,30,19.57,49.31,48.51,49.31,26.8,0,42.61-11,49.58-19.29v22.51c-12.6,9.65-26.26,15.27-49.58,15.27-40.74,0-68.34-27.6-68.34-70.21Zm108.54-13.67c0-21.44-18.22-39.4-41-39.4-24.66,0-45,17.69-46.37,39.4Z" /><path d="M1284.07,118.56h57.08c28.14,0,50.12,20.1,50.12,47.7,0,18-8.85,31.63-23.85,37.52,24.65,5.1,37.52,23.05,37.52,46.37,0,31.62-24.13,55.21-56.82,55.21h-64Zm55.74,78c17.69,0,30.55-12.6,30.55-29.48,0-16.62-12.59-29.22-30.28-29.22H1305v58.7Zm7,89.51c21.44,0,37.25-15.27,37.25-35.91,0-19.83-15.54-34.84-37.52-34.84H1305v70.75Z" /><path d="M1431.73,170.28h19.83v22.78c6.7-14.47,21.18-24.92,41.54-24.92a67.54,67.54,0,0,1,8.31.54v21.44a57,57,0,0,0-13.4-1.34c-20.9,0-36.45,15.27-36.45,38.05v78.53h-19.83Z" /><path d="M1521,238.36c0-43.42,29-71.56,67.54-71.56,37.52,0,62.18,29.75,62.18,66.73,0,0,0,4.56-.27,8.58H1540.81c1.07,30,19.56,49.31,48.51,49.31,26.8,0,42.61-11,49.58-19.29v22.51c-12.6,9.65-26.27,15.27-49.58,15.27-40.74,0-68.35-27.6-68.35-70.21Zm108.55-13.67c0-21.44-18.23-39.4-41-39.4-24.65,0-45,17.69-46.36,39.4Z" /><path d="M1736.18,166.26c26.53,0,41.27,12.6,48,24.12v-20.1H1804V305.36h-19.83v-20.1c-6.7,11.52-21.44,24.12-48,24.12-37.79,0-68.35-30.29-68.35-71.56S1698.39,166.26,1736.18,166.26Zm0,124.63c28.94,0,50.38-22.78,50.38-53.07s-21.44-53.06-50.38-53.06c-27.88,0-48.51,22.78-48.51,53.06S1708.3,290.89,1736.18,290.89Z" /><path d="M1832.65,118.56h19.83v111l53.87-59.23h23.32l-57.62,63.52,63.78,71.56h-24.92l-58.43-65.66v65.66h-19.83Z" /><path d="M1945.48,238.36c0-43.42,28.94-71.56,67.53-71.56,37.52,0,62.18,29.75,62.18,66.73,0,0,0,4.56-.27,8.58H1965.31c1.07,30,19.56,49.31,48.51,49.31,26.8,0,42.61-11,49.58-19.29v22.51c-12.6,9.65-26.27,15.27-49.58,15.27-40.74,0-68.34-27.6-68.34-70.21ZM2054,224.69c0-21.44-18.23-39.4-41-39.4-24.65,0-45,17.69-46.36,39.4Z" /><path d="M2098.23,170.28h19.84v22.78c6.69-14.47,21.17-24.92,41.54-24.92a67.5,67.5,0,0,1,8.3.54v21.44a57,57,0,0,0-13.4-1.34c-20.9,0-36.44,15.27-36.44,38.05v78.53h-19.84Z" /><path d="M2185.87,269.18c12.59,14.2,27.87,20.9,46.63,20.9,18.23,0,27.34-8.31,27.34-18.76,0-14.47-11.26-20.1-30.55-29.48-22-10.72-36.72-19.56-36.72-40.74,0-20.9,16.08-34.84,41.81-34.84,15.54,0,26.8,4.56,34,11.26v20.37c-8.57-7.77-19.83-13.13-32.16-13.13-15.81,0-23.85,5.62-23.85,16.34,0,9.65,6.43,13.94,16.35,19.3,25.46,13.67,50.92,21.44,50.92,50.12,0,18.49-13.4,38.05-46.37,38.05-19.29,0-35.37-5.35-47.43-16.34Z" /></g></g><g id="A_Motley_Fool_Service" data-name="A Motley Fool Service"><g id="Primary_High" data-name="Primary High"><path d="M740.34,354.56l19.75,45.12H754.8l-4.71-10.75H730.47l-4.67,10.75h-5.12Zm7.84,29.87-7.88-18.5-7.87,18.5Z" /><polygon points="792.18 354.8 813.22 384.72 834.34 354.8 834.34 399.68 829.47 399.68 829.47 369.1 813.22 392.35 797.05 369.1 797.05 399.68 792.18 399.68 792.18 354.8" /><path d="M871.68,355.3A22.63,22.63,0,1,1,849,377.93,22.27,22.27,0,0,1,871.68,355.3Zm0,40.76c10.25,0,17.79-7.76,17.79-18.13s-7.54-18.13-17.79-18.13-17.88,7.76-17.88,18.13S861.43,396.06,871.68,396.06Z" /><polygon points="915.09 360.6 903.22 360.6 903.22 356.1 931.84 356.1 931.84 360.6 919.97 360.6 919.97 399.68 915.09 399.68 915.09 360.6" /><polygon points="945.43 356.1 950.3 356.1 950.3 395.18 968.22 395.18 968.22 399.68 945.43 399.68 945.43 356.1" /><polygon points="982.35 356.1 1006.97 356.1 1006.97 360.6 987.22 360.6 987.22 374.43 1005.8 374.43 1005.8 378.93 987.22 378.93 987.22 395.18 1007.43 395.18 1007.43 399.68 982.35 399.68 982.35 356.1" /><polygon points="1032.68 381.81 1017.35 356.1 1022.72 356.1 1035.18 376.97 1047.47 356.1 1052.72 356.1 1037.55 381.81 1037.55 399.68 1032.68 399.68 1032.68 381.81" /><polygon points="1083.1 356.1 1105.85 356.1 1105.85 360.6 1087.97 360.6 1087.97 374.68 1104.31 374.68 1104.31 379.18 1087.97 379.18 1087.97 399.68 1083.1 399.68 1083.1 356.1" /><path d="M1139.6,355.3a22.63,22.63,0,1,1-22.67,22.63A22.28,22.28,0,0,1,1139.6,355.3Zm0,40.76c10.25,0,17.83-7.76,17.83-18.13s-7.58-18.13-17.83-18.13-17.88,7.76-17.88,18.13S1129.35,396.06,1139.6,396.06Z" /><path d="M1196.81,355.3a22.63,22.63,0,1,1-22.71,22.63A22.27,22.27,0,0,1,1196.81,355.3Zm0,40.76c10.25,0,17.79-7.76,17.79-18.13s-7.54-18.13-17.79-18.13-17.88,7.76-17.88,18.13S1186.56,396.06,1196.81,396.06Z" /><polygon points="1234.1 356.1 1238.97 356.1 1238.97 395.18 1256.93 395.18 1256.93 399.68 1234.1 399.68 1234.1 356.1" /><path d="M1287,389.35c3.59,4.25,8.34,6.71,13.25,6.71,6.59,0,9.46-3.84,9.46-6.88,0-5.33-3.12-7.13-9.71-10.58-6.25-3.25-11.16-6.13-11.16-12.63,0-6.25,4.87-10.67,12.91-10.67a14.72,14.72,0,0,1,9.59,3.55v5.45c-3.09-3.08-6.46-4.5-9.5-4.5-5.13,0-8.13,2.5-8.13,6.17,0,4,3.25,5.75,8.42,8.46,7.21,3.66,12.46,7.12,12.46,14.75,0,5.75-5.21,11.38-14,11.38a19.24,19.24,0,0,1-13.63-5.21Z" /><polygon points="1329.47 356.1 1354.1 356.1 1354.1 360.6 1334.35 360.6 1334.35 374.43 1352.93 374.43 1352.93 378.93 1334.35 378.93 1334.35 395.18 1354.56 395.18 1354.56 399.68 1329.47 399.68 1329.47 356.1" /><path d="M1369.72,356.1h14.88a12.85,12.85,0,0,1,13.08,13,13,13,0,0,1-8.33,12.37l10.5,18.21h-5.54l-9.84-17.25h-9.87v17.25h-4.88Zm14.38,21.83a8.53,8.53,0,0,0,8.71-8.83,8.28,8.28,0,0,0-8.38-8.5h-9.83v17.33Z" /><polygon points="1408.72 356.1 1413.97 356.1 1427.47 388.85 1440.97 356.1 1446.23 356.1 1427.47 401.22 1408.72 356.1" /><rect x="1460.35" y="356.1" width="4.87" height="43.58" /><polygon points="1532.68 356.1 1557.31 356.1 1557.31 360.6 1537.56 360.6 1537.56 374.43 1556.1 374.43 1556.1 378.93 1537.56 378.93 1537.56 395.18 1557.73 395.18 1557.73 399.68 1532.68 399.68 1532.68 356.1" /><path d="M1502.81,355.3a21.11,21.11,0,0,1,13.67,4.63v5.62a18.74,18.74,0,0,0-13.67-5.75c-10.25,0-17.83,7.76-17.83,18.13s7.58,18.13,17.83,18.13a18.59,18.59,0,0,0,13.67-5.75v5.62a21.11,21.11,0,0,1-13.67,4.63,22.63,22.63,0,1,1,0-45.26Z" /></g></g><g id="Hats"><g id="Light_Orange" data-name="Light Orange"><path d="M655.71,254.05a26.56,26.56,0,1,1-26.56-26.43,26.5,26.5,0,0,1,26.56,26.43" fill="#fdb61c" fill-rule="evenodd" /><path d="M53.12,254.05a26.56,26.56,0,1,1-26.56-26.43,26.5,26.5,0,0,1,26.56,26.43" fill="#fdb61c" fill-rule="evenodd" /><path d="M185.56,0c-77,0-141.7,86.13-160,202.58a4,4,0,0,0,7.7,2.12c18.28-44.53,49.64-73.92,85.28-73.92,51.09,0,96,62.18,101,147.68,6.63,14.19,59.55,25.05,108.3,26.9V101C297.59,39.43,237.65,0,185.56,0" fill="#f89c6f" fill-rule="evenodd" /><path d="M470.15,0c77,0,141.7,86.13,160,202.58a4,4,0,0,1-7.7,2.12c-18.28-44.53-49.64-73.92-85.28-73.92-51.09,0-95.95,62.18-101,147.68-6.63,14.19-59.55,25.05-108.3,26.9V101C358.12,39.43,418.05,0,470.15,0" fill="#f58236" fill-rule="evenodd" /></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2279.67 401.22"><g id="Editable_Text" data-name="Editable Text"><g id="Primary"><path d="M721,118.56h63.78c30.82,0,56,23.58,56,55.74,0,24.93-14.74,45-35.65,53.07l45,78H826.33l-42.07-74H741.91v74H721Zm61.64,93.53c21.44,0,37.25-16.08,37.25-37.79,0-20.63-15.28-36.45-35.91-36.45H741.91v74.24Z" /><path d="M870.82,170.28h19.83v80.94c0,25.73,14.47,38.86,36.72,38.86,22.51,0,37-13.13,37-39.13V170.28h19.83v80.94c0,37.79-24.65,57.35-57.62,57.35-31.89,0-55.74-18.76-55.74-55.47Z" /><path d="M1011.78,118.56h19.84v186.8h-19.84Z" /><path d="M1054.93,238.36c0-43.42,28.94-71.56,67.54-71.56,37.52,0,62.17,29.75,62.17,66.73,0,0,0,4.56-.26,8.58H1074.76c1.07,30,19.57,49.31,48.51,49.31,26.8,0,42.61-11,49.58-19.29v22.51c-12.6,9.65-26.26,15.27-49.58,15.27-40.74,0-68.34-27.6-68.34-70.21Zm108.54-13.67c0-21.44-18.22-39.4-41-39.4-24.66,0-45,17.69-46.37,39.4Z" /><path d="M1284.07,118.56h57.08c28.14,0,50.12,20.1,50.12,47.7,0,18-8.85,31.63-23.85,37.52,24.65,5.1,37.52,23.05,37.52,46.37,0,31.62-24.13,55.21-56.82,55.21h-64Zm55.74,78c17.69,0,30.55-12.6,30.55-29.48,0-16.62-12.59-29.22-30.28-29.22H1305v58.7Zm7,89.51c21.44,0,37.25-15.27,37.25-35.91,0-19.83-15.54-34.84-37.52-34.84H1305v70.75Z" /><path d="M1431.73,170.28h19.83v22.78c6.7-14.47,21.18-24.92,41.54-24.92a67.54,67.54,0,0,1,8.31.54v21.44a57,57,0,0,0-13.4-1.34c-20.9,0-36.45,15.27-36.45,38.05v78.53h-19.83Z" /><path d="M1521,238.36c0-43.42,29-71.56,67.54-71.56,37.52,0,62.18,29.75,62.18,66.73,0,0,0,4.56-.27,8.58H1540.81c1.07,30,19.56,49.31,48.51,49.31,26.8,0,42.61-11,49.58-19.29v22.51c-12.6,9.65-26.27,15.27-49.58,15.27-40.74,0-68.35-27.6-68.35-70.21Zm108.55-13.67c0-21.44-18.23-39.4-41-39.4-24.65,0-45,17.69-46.36,39.4Z" /><path d="M1736.18,166.26c26.53,0,41.27,12.6,48,24.12v-20.1H1804V305.36h-19.83v-20.1c-6.7,11.52-21.44,24.12-48,24.12-37.79,0-68.35-30.29-68.35-71.56S1698.39,166.26,1736.18,166.26Zm0,124.63c28.94,0,50.38-22.78,50.38-53.07s-21.44-53.06-50.38-53.06c-27.88,0-48.51,22.78-48.51,53.06S1708.3,290.89,1736.18,290.89Z" /><path d="M1832.65,118.56h19.83v111l53.87-59.23h23.32l-57.62,63.52,63.78,71.56h-24.92l-58.43-65.66v65.66h-19.83Z" /><path d="M1945.48,238.36c0-43.42,28.94-71.56,67.53-71.56,37.52,0,62.18,29.75,62.18,66.73,0,0,0,4.56-.27,8.58H1965.31c1.07,30,19.56,49.31,48.51,49.31,26.8,0,42.61-11,49.58-19.29v22.51c-12.6,9.65-26.27,15.27-49.58,15.27-40.74,0-68.34-27.6-68.34-70.21ZM2054,224.69c0-21.44-18.23-39.4-41-39.4-24.65,0-45,17.69-46.36,39.4Z" /><path d="M2098.23,170.28h19.84v22.78c6.69-14.47,21.17-24.92,41.54-24.92a67.5,67.5,0,0,1,8.3.54v21.44a57,57,0,0,0-13.4-1.34c-20.9,0-36.44,15.27-36.44,38.05v78.53h-19.84Z" /><path d="M2185.87,269.18c12.59,14.2,27.87,20.9,46.63,20.9,18.23,0,27.34-8.31,27.34-18.76,0-14.47-11.26-20.1-30.55-29.48-22-10.72-36.72-19.56-36.72-40.74,0-20.9,16.08-34.84,41.81-34.84,15.54,0,26.8,4.56,34,11.26v20.37c-8.57-7.77-19.83-13.13-32.16-13.13-15.81,0-23.85,5.62-23.85,16.34,0,9.65,6.43,13.94,16.35,19.3,25.46,13.67,50.92,21.44,50.92,50.12,0,18.49-13.4,38.05-46.37,38.05-19.29,0-35.37-5.35-47.43-16.34Z" /></g></g><g id="A_Motley_Fool_Service" data-name="A CapitalCrest Service"><g id="Primary_High" data-name="Primary High"><path d="M740.34,354.56l19.75,45.12H754.8l-4.71-10.75H730.47l-4.67,10.75h-5.12Zm7.84,29.87-7.88-18.5-7.87,18.5Z" /><polygon points="792.18 354.8 813.22 384.72 834.34 354.8 834.34 399.68 829.47 399.68 829.47 369.1 813.22 392.35 797.05 369.1 797.05 399.68 792.18 399.68 792.18 354.8" /><path d="M871.68,355.3A22.63,22.63,0,1,1,849,377.93,22.27,22.27,0,0,1,871.68,355.3Zm0,40.76c10.25,0,17.79-7.76,17.79-18.13s-7.54-18.13-17.79-18.13-17.88,7.76-17.88,18.13S861.43,396.06,871.68,396.06Z" /><polygon points="915.09 360.6 903.22 360.6 903.22 356.1 931.84 356.1 931.84 360.6 919.97 360.6 919.97 399.68 915.09 399.68 915.09 360.6" /><polygon points="945.43 356.1 950.3 356.1 950.3 395.18 968.22 395.18 968.22 399.68 945.43 399.68 945.43 356.1" /><polygon points="982.35 356.1 1006.97 356.1 1006.97 360.6 987.22 360.6 987.22 374.43 1005.8 374.43 1005.8 378.93 987.22 378.93 987.22 395.18 1007.43 395.18 1007.43 399.68 982.35 399.68 982.35 356.1" /><polygon points="1032.68 381.81 1017.35 356.1 1022.72 356.1 1035.18 376.97 1047.47 356.1 1052.72 356.1 1037.55 381.81 1037.55 399.68 1032.68 399.68 1032.68 381.81" /><polygon points="1083.1 356.1 1105.85 356.1 1105.85 360.6 1087.97 360.6 1087.97 374.68 1104.31 374.68 1104.31 379.18 1087.97 379.18 1087.97 399.68 1083.1 399.68 1083.1 356.1" /><path d="M1139.6,355.3a22.63,22.63,0,1,1-22.67,22.63A22.28,22.28,0,0,1,1139.6,355.3Zm0,40.76c10.25,0,17.83-7.76,17.83-18.13s-7.58-18.13-17.83-18.13-17.88,7.76-17.88,18.13S1129.35,396.06,1139.6,396.06Z" /><path d="M1196.81,355.3a22.63,22.63,0,1,1-22.71,22.63A22.27,22.27,0,0,1,1196.81,355.3Zm0,40.76c10.25,0,17.79-7.76,17.79-18.13s-7.54-18.13-17.79-18.13-17.88,7.76-17.88,18.13S1186.56,396.06,1196.81,396.06Z" /><polygon points="1234.1 356.1 1238.97 356.1 1238.97 395.18 1256.93 395.18 1256.93 399.68 1234.1 399.68 1234.1 356.1" /><path d="M1287,389.35c3.59,4.25,8.34,6.71,13.25,6.71,6.59,0,9.46-3.84,9.46-6.88,0-5.33-3.12-7.13-9.71-10.58-6.25-3.25-11.16-6.13-11.16-12.63,0-6.25,4.87-10.67,12.91-10.67a14.72,14.72,0,0,1,9.59,3.55v5.45c-3.09-3.08-6.46-4.5-9.5-4.5-5.13,0-8.13,2.5-8.13,6.17,0,4,3.25,5.75,8.42,8.46,7.21,3.66,12.46,7.12,12.46,14.75,0,5.75-5.21,11.38-14,11.38a19.24,19.24,0,0,1-13.63-5.21Z" /><polygon points="1329.47 356.1 1354.1 356.1 1354.1 360.6 1334.35 360.6 1334.35 374.43 1352.93 374.43 1352.93 378.93 1334.35 378.93 1334.35 395.18 1354.56 395.18 1354.56 399.68 1329.47 399.68 1329.47 356.1" /><path d="M1369.72,356.1h14.88a12.85,12.85,0,0,1,13.08,13,13,13,0,0,1-8.33,12.37l10.5,18.21h-5.54l-9.84-17.25h-9.87v17.25h-4.88Zm14.38,21.83a8.53,8.53,0,0,0,8.71-8.83,8.28,8.28,0,0,0-8.38-8.5h-9.83v17.33Z" /><polygon points="1408.72 356.1 1413.97 356.1 1427.47 388.85 1440.97 356.1 1446.23 356.1 1427.47 401.22 1408.72 356.1" /><rect x="1460.35" y="356.1" width="4.87" height="43.58" /><polygon points="1532.68 356.1 1557.31 356.1 1557.31 360.6 1537.56 360.6 1537.56 374.43 1556.1 374.43 1556.1 378.93 1537.56 378.93 1537.56 395.18 1557.73 395.18 1557.73 399.68 1532.68 399.68 1532.68 356.1" /><path d="M1502.81,355.3a21.11,21.11,0,0,1,13.67,4.63v5.62a18.74,18.74,0,0,0-13.67-5.75c-10.25,0-17.83,7.76-17.83,18.13s7.58,18.13,17.83,18.13a18.59,18.59,0,0,0,13.67-5.75v5.62a21.11,21.11,0,0,1-13.67,4.63,22.63,22.63,0,1,1,0-45.26Z" /></g></g><g id="Hats"><g id="Light_Orange" data-name="Light Orange"><path d="M655.71,254.05a26.56,26.56,0,1,1-26.56-26.43,26.5,26.5,0,0,1,26.56,26.43" fill="#fdb61c" fill-rule="evenodd" /><path d="M53.12,254.05a26.56,26.56,0,1,1-26.56-26.43,26.5,26.5,0,0,1,26.56,26.43" fill="#fdb61c" fill-rule="evenodd" /><path d="M185.56,0c-77,0-141.7,86.13-160,202.58a4,4,0,0,0,7.7,2.12c18.28-44.53,49.64-73.92,85.28-73.92,51.09,0,96,62.18,101,147.68,6.63,14.19,59.55,25.05,108.3,26.9V101C297.59,39.43,237.65,0,185.56,0" fill="#f89c6f" fill-rule="evenodd" /><path d="M470.15,0c77,0,141.7,86.13,160,202.58a4,4,0,0,1-7.7,2.12c-18.28-44.53-49.64-73.92-85.28-73.92-51.09,0-95.95,62.18-101,147.68-6.63,14.19-59.55,25.05-108.3,26.9V101C358.12,39.43,418.05,0,470.15,0" fill="#f58236" fill-rule="evenodd" /></g></g></svg>
 </div>
 <h3>Rule Breakers</h3>
 focuses on high-growth businesses we think are poised to be tomorrow's market leaders.
@@ -1810,28 +1497,28 @@ of our premium investing guidance services, including cloud technology, 5G, AI, 
 </div>
 <div class="hr"></div>
 <div class="content-body">
-<h2>Affiliates of The Motley Fool, LLC</h2>
+<h2>Affiliates of The CapitalCrest, LLC</h2>
 <div class="flex flex-wrap flex-between mobile-flex-center">
 <a class="card orange" href="/affiliates/mfam/" target="_blank">
 <div class="svg-wrapper">
 <svg style="height:65px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590.56 146.3"><g><g><path d="M164.81,25.05l18,25.63,18.08-25.63V63.46h-4.17V37.3L182.84,57.2,169,37.3V63.46h-4.17Z" fill="#010101" /><path d="M220.4,35.7A14.28,14.28,0,1,1,206.06,50,14.09,14.09,0,0,1,220.4,35.7Zm0,24.87A10.21,10.21,0,0,0,230.78,50,10.38,10.38,0,1,0,210,50,10.21,10.21,0,0,0,220.4,60.57Z" fill="#010101" /><path d="M240,40.19h-3.42V36.5H240V26.17h4V36.5h6v3.69h-6V63.46h-4Z" fill="#010101" /><path d="M252.87,26.17h4V63.46h-4Z" fill="#010101" /><path d="M260.15,50.09c0-8.67,5.77-14.29,13.48-14.29,7.49,0,12.41,5.94,12.41,13.32,0,0,0,.91-.05,1.72H264.11c.21,6,3.9,9.84,9.68,9.84,5.35,0,8.5-2.19,9.9-3.85v4.49c-2.52,1.93-5.25,3.05-9.9,3.05-8.13,0-13.64-5.51-13.64-14Zm21.66-2.73a8,8,0,0,0-8.18-7.86c-4.92,0-9,3.53-9.26,7.86Z" fill="#010101" /><path d="M286.52,36.5h4l8.83,22.36,9.31-22.36h4.07L296.9,73.79h-4l4.34-10.17Z" fill="#010101" /><path d="M327.23,26.17h19.48V30h-15.3v12h14v3.86h-14V63.46h-4.18Z" fill="#010101" /><path d="M362.6,35.7A14.28,14.28,0,1,1,348.26,50,14.09,14.09,0,0,1,362.6,35.7Zm0,24.87A10.21,10.21,0,0,0,373,50a10.38,10.38,0,1,0-20.76,0A10.21,10.21,0,0,0,362.6,60.57Z" fill="#010101" /><path d="M393.36,35.7A14.28,14.28,0,1,1,379,50,14.09,14.09,0,0,1,393.36,35.7Zm0,24.87A10.21,10.21,0,0,0,403.74,50,10.38,10.38,0,1,0,383,50,10.21,10.21,0,0,0,393.36,60.57Z" fill="#010101" /><path d="M411,26.17h4V63.46h-4Z" fill="#010101" /><path d="M178.61,77.84l16.91,38.62H191l-4-9.2h-16.8l-4,9.2h-4.39Zm6.69,25.57-6.74-15.84-6.74,15.84Z" fill="#010101" /><path d="M197.29,109.24a11.78,11.78,0,0,0,9.31,4.17c3.63,0,5.45-1.66,5.45-3.74,0-2.89-2.24-4-6.1-5.89-4.38-2.14-7.33-3.9-7.33-8.13s3.21-7,8.35-7a9.76,9.76,0,0,1,6.79,2.24V95a9.63,9.63,0,0,0-6.42-2.62c-3.15,0-4.76,1.12-4.76,3.26,0,1.93,1.29,2.78,3.27,3.85,5.08,2.73,10.16,4.28,10.16,10,0,3.69-2.67,7.59-9.25,7.59a13.58,13.58,0,0,1-9.47-3.26Z" fill="#010101" /><path d="M217,109.24a11.78,11.78,0,0,0,9.31,4.17c3.63,0,5.45-1.66,5.45-3.74,0-2.89-2.24-4-6.1-5.89-4.38-2.14-7.32-3.9-7.32-8.13s3.21-7,8.34-7a9.76,9.76,0,0,1,6.79,2.24V95a9.62,9.62,0,0,0-6.41-2.62c-3.16,0-4.77,1.12-4.77,3.26,0,1.93,1.29,2.78,3.27,3.85,5.08,2.73,10.16,4.28,10.16,10,0,3.69-2.67,7.59-9.25,7.59a13.61,13.61,0,0,1-9.47-3.26Z" fill="#010101" /><path d="M237.09,103.09c0-8.67,5.78-14.29,13.48-14.29,7.49,0,12.41,5.94,12.41,13.32,0,0,0,.91-.05,1.72H241.05c.21,6,3.9,9.84,9.68,9.84,5.35,0,8.51-2.19,9.9-3.85v4.49c-2.52,1.93-5.24,3.05-9.9,3.05-8.13,0-13.64-5.51-13.64-14Zm21.67-2.73a8.05,8.05,0,0,0-8.19-7.86c-4.92,0-9,3.53-9.25,7.86Z" fill="#010101" /><path d="M268.23,93.19H264.8V89.5h3.43V79.17h3.95V89.5h6v3.69h-6v23.27h-3.95Z" fill="#010101" /><path d="M294.17,78.05l18,25.63,18.08-25.63v38.41h-4.17V90.3L312.2,110.2,298.35,90.3v26.16h-4.18Z" fill="#010101" /><path d="M349.06,88.7c5.3,0,8.24,2.51,9.58,4.81v-4h4v27h-4v-4c-1.34,2.3-4.28,4.81-9.58,4.81-7.54,0-13.64-6-13.64-14.28S341.52,88.7,349.06,88.7Zm0,24.87c5.78,0,10.06-4.54,10.06-10.59s-4.28-10.59-10.06-10.59c-5.56,0-9.68,4.55-9.68,10.59S343.5,113.57,349.06,113.57Z" fill="#010101" /><path d="M367,89.5h4v4.55c1.39-2.89,4.44-5,8.67-5,6.21,0,10,4.12,10,10.17v17.22h-3.95V100.09c0-4.49-2.68-7.33-7.07-7.33a7.26,7.26,0,0,0-7.65,7.6v16.1h-4Z" fill="#010101" /><path d="M406.25,88.7c5.3,0,8.24,2.51,9.58,4.81v-4h4v27h-4v-4c-1.34,2.3-4.28,4.81-9.58,4.81-7.54,0-13.64-6-13.64-14.28S398.71,88.7,406.25,88.7Zm0,24.87c5.78,0,10.06-4.54,10.06-10.59S412,92.39,406.25,92.39c-5.56,0-9.68,4.55-9.68,10.59S400.69,113.57,406.25,113.57Z" fill="#010101" /><path d="M436.43,124.54a11,11,0,0,0,6.9-2c2.57-2,2.89-5.4,2.89-8.34V112c-1.34,2.3-4.28,4.81-9.58,4.81a13.58,13.58,0,0,1-13.64-14c0-8.13,6.1-14.07,13.64-14.07,5.3,0,8.24,2.51,9.58,4.81v-4h4V112c0,5.83-.27,10.27-4.39,13.43a15.44,15.44,0,0,1-9.36,2.83c-4.12,0-8.67-1-11.4-3.32v-4.49C427.55,123.42,432.2,124.54,436.43,124.54Zm.21-11.45c5.78,0,10.06-4.39,10.06-10.32s-4.28-10.38-10.06-10.38c-5.56,0-9.68,4.44-9.68,10.38S431.08,113.09,436.64,113.09Z" fill="#010101" /><path d="M453.44,103.09c0-8.67,5.78-14.29,13.48-14.29,7.49,0,12.41,5.94,12.41,13.32,0,0,0,.91-.05,1.72H457.4c.21,6,3.9,9.84,9.68,9.84,5.35,0,8.51-2.19,9.9-3.85v4.49c-2.52,1.93-5.24,3.05-9.9,3.05-8.13,0-13.64-5.51-13.64-14Zm21.67-2.73a8.05,8.05,0,0,0-8.19-7.86c-4.92,0-9,3.53-9.25,7.86Z" fill="#010101" /><path d="M482.6,89.5h4v4.55a7.94,7.94,0,0,1,7.59-5,8.1,8.1,0,0,1,7.92,5.35,9,9,0,0,1,8.61-5.35c5.57,0,9,4.12,9,10.17v17.22h-4V100.09c0-4.49-2.24-7.33-6.1-7.33s-6.63,3-6.63,7.6v16.1h-4V100.09c0-4.49-2.19-7.33-6-7.33s-6.47,3-6.47,7.6v16.1h-4Z" fill="#010101" /><path d="M522.67,103.09c0-8.67,5.78-14.29,13.48-14.29,7.49,0,12.41,5.94,12.41,13.32,0,0,0,.91,0,1.72H526.63c.21,6,3.9,9.84,9.68,9.84,5.35,0,8.51-2.19,9.9-3.85v4.49c-2.52,1.93-5.25,3.05-9.9,3.05-8.13,0-13.64-5.51-13.64-14Zm21.66-2.73a8,8,0,0,0-8.18-7.86c-4.92,0-9,3.53-9.25,7.86Z" fill="#010101" /><path d="M551.82,89.5h4v4.55c1.39-2.89,4.44-5,8.67-5,6.21,0,10,4.12,10,10.17v17.22h-4V100.09c0-4.49-2.67-7.33-7.06-7.33a7.26,7.26,0,0,0-7.65,7.6v16.1h-4Z" fill="#010101" /><path d="M580.61,93.19h-3.43V89.5h3.43V79.17h4V89.5h6v3.69h-6v23.27h-4Z" fill="#010101" /></g><g><circle cx="73.15" cy="73.15" r="73.15" fill="#f26a21" /><g><g><path d="M129.84,84.56a5,5,0,1,0,5,5A5,5,0,0,0,129.84,84.56Z" fill="#fff" /><circle cx="17.41" cy="89.51" r="4.96" fill="#fff" /></g><path d="M130.16,80.59c-3.25-22.21-15.43-38.72-30-38.72-9.72,0-19.85,7.39-26.55,18.93C67,49.26,56.78,41.87,47.06,41.87c-14.54,0-26.71,16.51-30,38.72H17l1.38.23C21.8,72.16,27.76,66.4,34.56,66.4c9.53,0,17.43,11.32,18.83,26.1l0,.06C54.55,95,62.28,97,71.49,97.5h0l2.14.1c10.14-.35,19-2.39,20.2-5l0-.06c1.4-14.78,9.29-26.1,18.83-26.1,6.8,0,12.76,5.76,16.14,14.42l1.38-.23Z" fill="#fff" /><g><path d="M100.09,92.22h-.33V89.66h-.91v-.3H101v.3h-.9Z" fill="#fff" /><path d="M102.69,92.22l-1-2.53h0c0,.2,0,.44,0,.71v1.82h-.31V89.36h.5l.91,2.36h0l.91-2.36h.5v2.86h-.33V90.38c0-.21,0-.44,0-.69h0l-1,2.53Z" fill="#fff" /></g></g></g></g></svg>
 </div>
-<h3>Motley Fool Asset Management</h3>
-a separate affiliate of The Motley Fool, offers investors Foolish investment strategies ETFs and Mutual Funds. Our suite of products is typically available through most professional brokerage accounts.
+<h3>CapitalCrest Asset Management</h3>
+a separate affiliate of The CapitalCrest, offers investors Foolish investment strategies ETFs and Mutual Funds. Our suite of products is typically available through most professional brokerage accounts.
 </a>
 <a class="card dark-green" href="/affiliates/mfwm/" target="_blank">
 <div class="svg-wrapper">
 <svg style="height:65px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 619.21 146.3"><g><g><circle cx="73.15" cy="73.15" r="73.15" fill="#007a33" /><g><path d="M129.84,84.56a5,5,0,1,0,5,5A5,5,0,0,0,129.84,84.56Z" fill="#fff" /><circle cx="17.41" cy="89.51" r="4.96" fill="#fff" /></g><g><path d="M47.06,41.87c-14.54,0-26.71,16.51-30,38.72H17l1.38.23C21.8,72.16,27.76,66.4,34.56,66.4c9.53,0,17.43,11.32,18.83,26.1l0,.06c1.23,2.66,10.1,4.7,20.24,5V60.8C67,49.26,56.78,41.87,47.06,41.87Z" fill="#fff" /><path d="M100.2,41.87c14.53,0,26.71,16.51,30,38.72h.06l-1.38.23c-3.38-8.66-9.34-14.42-16.14-14.42-9.54,0-17.43,11.32-18.83,26.1l0,.06c-1.23,2.66-10.06,4.7-20.2,5V60.8C80.35,49.26,90.48,41.87,100.2,41.87Z" fill="#fff" /></g><g><path d="M100.09,92.22h-.33V89.66h-.91v-.3H101v.3h-.9Z" fill="#fff" /><path d="M102.69,92.22l-1-2.53h0c0,.2,0,.44,0,.71v1.82h-.31V89.36h.5l.91,2.36h0l.91-2.36h.5v2.86h-.33V90.38c0-.21,0-.44,0-.69h0l-1,2.53Z" fill="#fff" /></g></g><path d="M159.25,81.39h4.1l7.8,24.6,10.55-25.8,10.1,25.7,7.95-24.5h4.1L192.2,117.6,181.6,90.74,170.65,117.5Z" /><path d="M203.68,103.74c0-8.1,5.4-13.35,12.6-13.35,7,0,11.6,5.55,11.6,12.45,0,0,0,.85,0,1.6H207.38c.2,5.61,3.65,9.2,9.05,9.2,5,0,7.95-2,9.25-3.59v4.2c-2.35,1.8-4.9,2.85-9.25,2.85-7.6,0-12.75-5.15-12.75-13.11Zm20.25-2.55a7.53,7.53,0,0,0-7.65-7.35c-4.6,0-8.4,3.3-8.65,7.35Z" /><path d="M244.18,90.29c4.95,0,7.7,2.35,8.95,4.5V91h3.7v25.21h-3.7V112.5c-1.25,2.14-4,4.5-8.95,4.5-7.05,0-12.75-5.65-12.75-13.36S237.13,90.29,244.18,90.29Zm0,23.26c5.4,0,9.4-4.25,9.4-9.91s-4-9.9-9.4-9.9c-5.2,0-9.05,4.25-9.05,9.9S239,113.55,244.18,113.55Z" /><path d="M262.57,81.39h3.7v34.86h-3.7Z" /><path d="M273.92,94.49h-3.2V91h3.2V81.39h3.7V91h5.61v3.45h-5.61v21.76h-3.7Z" /><path d="M287.52,81.39h3.7v13.9A8.16,8.16,0,0,1,299,90.64c5.6,0,9,3.85,9,9.5v16.11h-3.7V100.94c0-4.2-2.35-6.85-6.25-6.85s-6.85,2.85-6.85,7.1v15.06h-3.7Z" /><path d="M327.81,80.34l16.86,24,16.9-24v35.91h-3.9V91.79l-13,18.6-13-18.6v24.46h-3.9Z" /><path d="M380.72,90.29c4.95,0,7.7,2.35,8.95,4.5V91h3.7v25.21h-3.7V112.5c-1.25,2.14-4,4.5-8.95,4.5-7.05,0-12.76-5.65-12.76-13.36S373.67,90.29,380.72,90.29Zm0,23.26c5.4,0,9.4-4.25,9.4-9.91s-4-9.9-9.4-9.9c-5.21,0-9.05,4.25-9.05,9.9S375.51,113.55,380.72,113.55Z" /><path d="M399.06,91h3.7v4.25c1.3-2.7,4.15-4.65,8.1-4.65,5.81,0,9.35,3.85,9.35,9.5v16.11h-3.7V100.94c0-4.2-2.5-6.85-6.6-6.85a6.78,6.78,0,0,0-7.15,7.1v15.06h-3.7Z" /><path d="M437.36,90.29c4.95,0,7.7,2.35,8.95,4.5V91H450v25.21h-3.7V112.5c-1.25,2.14-4,4.5-8.95,4.5-7.05,0-12.75-5.65-12.75-13.36S430.31,90.29,437.36,90.29Zm0,23.26c5.4,0,9.4-4.25,9.4-9.91s-4-9.9-9.4-9.9c-5.2,0-9.05,4.25-9.05,9.9S432.16,113.55,437.36,113.55Z" /><path d="M467.16,123.8a10.29,10.29,0,0,0,6.45-1.85c2.4-1.9,2.7-5,2.7-7.81v-2.09c-1.25,2.15-4,4.5-8.95,4.5a13.14,13.14,0,0,1,0-26.26c4.95,0,7.7,2.35,8.95,4.5V91H480v21c0,5.45-.25,9.6-4.1,12.55a14.44,14.44,0,0,1-8.75,2.65c-3.85,0-8.1-.9-10.65-3.1V120C458.86,122.75,463.21,123.8,467.16,123.8Zm.2-10.7a9.27,9.27,0,0,0,9.4-9.66c0-5.55-4-9.7-9.4-9.7-5.2,0-9.05,4.15-9.05,9.7S462.16,113.1,467.36,113.1Z" /><path d="M484.66,103.74c0-8.1,5.4-13.35,12.6-13.35,7,0,11.6,5.55,11.6,12.45,0,0,0,.85-.05,1.6H488.36c.2,5.61,3.65,9.2,9.05,9.2,5,0,7.95-2,9.25-3.59v4.2c-2.35,1.8-4.9,2.85-9.25,2.85-7.6,0-12.75-5.15-12.75-13.11Zm20.25-2.55a7.53,7.53,0,0,0-7.65-7.35c-4.6,0-8.4,3.3-8.65,7.35Z" /><path d="M513.51,91h3.7v4.25a7.43,7.43,0,0,1,7.1-4.65,7.57,7.57,0,0,1,7.4,5,8.45,8.45,0,0,1,8-5c5.2,0,8.4,3.85,8.4,9.5v16.11h-3.7V100.94c0-4.2-2.1-6.85-5.7-6.85s-6.2,2.85-6.2,7.1v15.06h-3.7V100.94c0-4.2-2.05-6.85-5.6-6.85s-6,2.85-6,7.1v15.06h-3.7Z" /><path d="M552.56,103.74c0-8.1,5.4-13.35,12.6-13.35,7,0,11.6,5.55,11.6,12.45,0,0,0,.85,0,1.6H556.26c.2,5.61,3.65,9.2,9,9.2,5,0,8-2,9.25-3.59v4.2c-2.35,1.8-4.9,2.85-9.25,2.85-7.6,0-12.75-5.15-12.75-13.11Zm20.25-2.55a7.53,7.53,0,0,0-7.65-7.35c-4.6,0-8.4,3.3-8.65,7.35Z" /><path d="M581.41,91h3.7v4.25c1.3-2.7,4.15-4.65,8.1-4.65,5.8,0,9.35,3.85,9.35,9.5v16.11h-3.7V100.94c0-4.2-2.5-6.85-6.6-6.85a6.78,6.78,0,0,0-7.15,7.1v15.06h-3.7Z" /><path d="M609.91,94.49h-3.2V91h3.2V81.39h3.7V91h5.6v3.45h-5.6v21.76h-3.7Z" /><path d="M164.67,28l16.85,24,16.91-24V63.94h-3.9V39.48l-13,18.61-13-18.61V63.94h-3.9Z" /><path d="M218.2,38a13.36,13.36,0,1,1-13.4,13.36A13.17,13.17,0,0,1,218.2,38Zm0,23.26a9.54,9.54,0,0,0,9.7-9.9,9.7,9.7,0,1,0-19.4,0A9.54,9.54,0,0,0,218.2,61.24Z" /><path d="M238.1,42.18h-3.2V38.73h3.2V29.08h3.7v9.65h5.6v3.45h-5.6V63.94h-3.7Z" /><path d="M251.75,29.08h3.7V63.94h-3.7Z" /><path d="M260.14,51.44c0-8.11,5.4-13.36,12.61-13.36,7,0,11.6,5.55,11.6,12.46,0,0,0,.85-.05,1.6H263.84c.2,5.6,3.66,9.2,9.06,9.2,5,0,8-2.05,9.25-3.6v4.2c-2.35,1.8-4.9,2.85-9.25,2.85-7.61,0-12.76-5.15-12.76-13.1Zm20.26-2.55a7.53,7.53,0,0,0-7.65-7.36c-4.6,0-8.41,3.3-8.66,7.36Z" /><path d="M285.39,38.73h3.75l8.26,20.91,8.7-20.91h3.8L295.1,73.59h-3.7l4.05-9.5Z" /><path d="M327.64,29.08h18.21v3.6H331.54V43.94H344.6v3.6H331.54v16.4h-3.9Z" /><path d="M362.3,38a13.36,13.36,0,1,1-13.41,13.36A13.17,13.17,0,0,1,362.3,38Zm0,23.26a9.54,9.54,0,0,0,9.7-9.9,9.71,9.71,0,1,0-19.41,0A9.54,9.54,0,0,0,362.3,61.24Z" /><path d="M392.65,38a13.36,13.36,0,1,1-13.41,13.36A13.17,13.17,0,0,1,392.65,38Zm0,23.26a9.55,9.55,0,0,0,9.7-9.9,9.71,9.71,0,1,0-19.41,0A9.54,9.54,0,0,0,392.65,61.24Z" /><path d="M410.74,29.08h3.7V63.94h-3.7Z" /></g></svg>
 </div>
-<h3>Motley Fool Wealth Management</h3>
-a separate affiliate of The Motley Fool, offers personalized account management services designed to be, and less time-consuming than doing it yourself. Our team of planners can help qualified clients structure their portfolios, and we also offer these clients a broad array of financial planning services.
+<h3>CapitalCrest Wealth Management</h3>
+a separate affiliate of The CapitalCrest, offers personalized account management services designed to be, and less time-consuming than doing it yourself. Our team of planners can help qualified clients structure their portfolios, and we also offer these clients a broad array of financial planning services.
 </a>
 <a class="card ventures-purple" href="/affiliates/ventures/" target="_blank">
 <div class="svg-wrapper">
 <svg style="height:65px" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 409.19 146.3"><path d="M901.3,541.15A73.15,73.15,0,1,1,828.15,468a73.15,73.15,0,0,1,73.15,73.15Z" transform="translate(-755 -468)" fill="#704c9e" /><path d="M884.85,552.55a5,5,0,1,0,4.95,5,5,5,0,0,0-4.95-5Z" transform="translate(-755 -468)" fill="#fff" /><path d="M772.41,552.55a5,5,0,1,0,5,5,5,5,0,0,0-5-5Z" transform="translate(-755 -468)" fill="#fff" /><path d="M828.59,565.6c-10.12-.35-19-2.38-20.18-5l0-.06c-1.4-14.78-9.3-26.11-18.83-26.11-6.8,0-12.76,5.76-16.14,14.43l-1.38-.23h.06c3.25-22.21,15.42-38.72,30-38.72,9.72,0,19.9,7.39,26.59,18.93l0,0c6.7-11.52,16.82-18.9,26.53-18.9,14.54,0,26.71,16.51,30,38.72h.06l-1.38.23c-3.38-8.67-9.34-14.43-16.14-14.43-9.53,0-17.43,11.33-18.83,26.11l0,.06c-1.23,2.66-10.05,4.7-20.2,5.05Z" transform="translate(-755 -468)" fill="#fff" /><polygon points="100.19 92.13 99.85 92.13 99.85 89.57 98.95 89.57 98.95 89.28 101.09 89.28 101.09 89.57 100.19 89.57 100.19 92.13 100.19 92.13" fill="#fff" /><path d="M857.78,560.13l-1-2.53h0q0,.3,0,.72v1.81h-.31v-2.85h.5l.9,2.35h0l.91-2.35h.5v2.85H859v-1.84c0-.21,0-.44,0-.68h0l-1,2.52Z" transform="translate(-755 -468)" fill="#fff" /><polygon points="161.34 77.28 165.54 77.28 176.34 103.48 187.15 77.28 191.35 77.28 176.34 113.38 161.34 77.28 161.34 77.28" /><path d="M965.32,565.08a7.53,7.53,0,0,0-7.65-7.35c-4.6,0-8.4,3.3-8.65,7.35Zm-20.25,2.55c0-8.1,5.4-13.35,12.6-13.35,7,0,11.6,5.55,11.6,12.45,0,0,0,.85,0,1.6H948.77c.2,5.6,3.65,9.2,9.05,9.2,5,0,7.95-2,9.25-3.6v4.2c-2.35,1.8-4.9,2.85-9.25,2.85-7.6,0-12.75-5.15-12.75-13.1v-.25Z" transform="translate(-755 -468)" /><path d="M973.92,554.93h3.7v4.25c1.3-2.7,4.15-4.65,8.1-4.65,5.8,0,9.35,3.85,9.35,9.5v16.1h-3.7v-15.3c0-4.2-2.5-6.85-6.6-6.85a6.78,6.78,0,0,0-7.15,7.1v15h-3.7v-25.2Z" transform="translate(-755 -468)" /><polygon points="246.42 90.38 243.22 90.38 243.22 86.93 246.42 86.93 246.42 77.28 250.12 77.28 250.12 86.93 255.72 86.93 255.72 90.38 250.12 90.38 250.12 112.13 246.42 112.13 246.42 90.38 246.42 90.38" /><path d="M1014.72,554.93h3.7V570c0,4.8,2.7,7.25,6.85,7.25s6.9-2.45,6.9-7.3V554.93h3.7V570c0,7.05-4.6,10.7-10.75,10.7-5.95,0-10.4-3.5-10.4-10.35V554.93Z" transform="translate(-755 -468)" /><path d="M1041.32,554.93h3.7v4.25a8.16,8.16,0,0,1,7.75-4.65,12.71,12.71,0,0,1,1.55.1v4a10.7,10.7,0,0,0-2.5-.25c-3.9,0-6.8,2.85-6.8,7.1v14.65h-3.7v-25.2Z" transform="translate(-755 -468)" /><path d="M1076.32,565.08a7.53,7.53,0,0,0-7.65-7.35c-4.6,0-8.4,3.3-8.65,7.35Zm-20.25,2.55c0-8.1,5.4-13.35,12.6-13.35,7,0,11.6,5.55,11.6,12.45,0,0,0,.85,0,1.6h-20.45c.2,5.6,3.65,9.2,9,9.2,5,0,8-2,9.25-3.6v4.2c-2.35,1.8-4.9,2.85-9.25,2.85-7.6,0-12.75-5.15-12.75-13.1v-.25Z" transform="translate(-755 -468)" /><path d="M1083,573.38a11,11,0,0,0,8.7,3.9c3.4,0,5.1-1.55,5.1-3.5,0-2.7-2.1-3.75-5.7-5.5-4.1-2-6.85-3.65-6.85-7.6s3-6.5,7.8-6.5a9.1,9.1,0,0,1,6.35,2.1v3.8a9,9,0,0,0-6-2.45c-3,0-4.45,1-4.45,3,0,1.8,1.2,2.6,3,3.6,4.75,2.55,9.5,4,9.5,9.35,0,3.45-2.5,7.1-8.65,7.1a12.7,12.7,0,0,1-8.85-3.05v-4.3Z" transform="translate(-755 -468)" /><polygon points="159.47 32.92 176.32 56.87 193.22 32.92 193.22 68.82 189.32 68.82 189.32 44.37 176.32 62.97 163.37 44.37 163.37 68.82 159.47 68.82 159.47 32.92 159.47 32.92" /><path d="M967.94,534.12a9.9,9.9,0,1,0-9.7-9.9,9.54,9.54,0,0,0,9.7,9.9Zm0-23.25a13.35,13.35,0,1,1-13.4,13.35,13.17,13.17,0,0,1,13.4-13.35Z" transform="translate(-755 -468)" /><polygon points="232.84 47.07 229.64 47.07 229.64 43.62 232.84 43.62 232.84 33.97 236.54 33.97 236.54 43.62 242.14 43.62 242.14 47.07 236.54 47.07 236.54 68.82 232.84 68.82 232.84 47.07 232.84 47.07" /><polygon points="246.49 33.97 250.19 33.97 250.19 68.82 246.49 68.82 246.49 33.97 246.49 33.97" /><path d="M1030.14,521.77a7.53,7.53,0,0,0-7.65-7.35c-4.6,0-8.4,3.3-8.65,7.35Zm-20.25,2.55c0-8.1,5.4-13.35,12.6-13.35,7,0,11.6,5.55,11.6,12.45,0,0,0,.85,0,1.6h-20.45c.2,5.6,3.65,9.2,9,9.2,5,0,7.95-2.05,9.25-3.6v4.2c-2.35,1.8-4.9,2.85-9.25,2.85-7.6,0-12.75-5.15-12.75-13.1v-.25Z" transform="translate(-755 -468)" /><polygon points="281.14 43.62 284.89 43.62 293.14 64.52 301.84 43.62 305.64 43.62 290.84 78.47 287.14 78.47 291.19 68.97 281.14 43.62 281.14 43.62" /><polygon points="322.39 33.97 340.59 33.97 340.59 37.57 326.29 37.57 326.29 48.82 339.34 48.82 339.34 52.42 326.29 52.42 326.29 68.82 322.39 68.82 322.39 33.97 322.39 33.97" /><path d="M1112,534.12a9.9,9.9,0,1,0-9.7-9.9,9.54,9.54,0,0,0,9.7,9.9Zm0-23.25a13.35,13.35,0,1,1-13.4,13.35,13.17,13.17,0,0,1,13.4-13.35Z" transform="translate(-755 -468)" /><path d="M1142.39,534.12a9.9,9.9,0,1,0-9.7-9.9,9.54,9.54,0,0,0,9.7,9.9Zm0-23.25a13.35,13.35,0,1,1-13.4,13.35,13.17,13.17,0,0,1,13.4-13.35Z" transform="translate(-755 -468)" /><polygon points="405.49 33.97 409.19 33.97 409.19 68.82 405.49 68.82 405.49 33.97 405.49 33.97" /></svg>
 </div>
-<h3>Motley Fool Ventures</h3>
-is an early-stage, technology-focused venture capital fund powered by The Motley Fool’s investing approach and communities.
+<h3>CapitalCrest Ventures</h3>
+is an early-stage, technology-focused venture capital fund powered by The CapitalCrest’s investing approach and communities.
 </a>
 <a class="card lakehouse-blue" href="/affiliates/lakehouse/" target="_blank">
 <div class="svg-wrapper mobile-lakehouse-hack" style="height:65px; padding-top: 9px">
@@ -1851,7 +1538,7 @@ is an Alexandria, Va.-based registered investment adviser. 1623 manages private 
 </div>
 <div class="hr"></div>
 <div class="content-body">
-<h2>The Motley Fool Around the World</h2>
+<h2>The CapitalCrest Around the World</h2>
 <p>In addition to our USA-based offices, we operate in:</p>
 <div class="flex flex-wrap flex-between mobile-flex-center">
 <a class="flag" href="https://www.fool.com.au/" target="_blank">
@@ -1868,7 +1555,7 @@ United Kingdom
 </a>
 </div>
 <h2>Our Core Values</h2>
-<p>At The Motley Fool, our highest priority is to foster inclusion and belonging so all employees can thrive both personally and professionally. We believe diverse teams perform better. From our board of directors to our recruiting pipeline, we strive for diversity, both inherent and acquired.</p>
+<p>At The CapitalCrest, our highest priority is to foster inclusion and belonging so all employees can thrive both personally and professionally. We believe diverse teams perform better. From our board of directors to our recruiting pipeline, we strive for diversity, both inherent and acquired.</p>
 <div class="motley-banner value flex-center flex-valign">
 <img class="desktop-only" src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_we-are-motley.png&amp;op=resize&amp;w=1342&amp;h=122" alt="WE ARE MOTLEY.">
 <img class="mobile-only" src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_we-are-motley-stacked.png&amp;op=resize&amp;w=480&amp;h=190" alt="WE ARE MOTLEY.">
@@ -1898,8 +1585,8 @@ Make us proud.
 Play hard, play fair, play to win.
 </div>
 <h2>Careers</h2>
-<img style="margin-bottom: 1.5rem; width: 100%" alt="A collage of members and Motley Fool employees having fun and recording a podcast." src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_fools-collage.jpg&amp;op=resize&amp;w=736&amp;h=522" srcset="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_fools-collage.jpg&amp;op=resize&amp;w=736&amp;h=522 1x, https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_fools-collage.jpg&amp;op=resize&amp;w=1472&amp;h=1044 2x" />
-<p>The Motley Fool is a “virtual first” workplace. Most Fools get the majority of their work done remotely. Our physical office spaces (in Alexandria, Denver, Sydney, and the Gold Coast) are collaboration hubs, providing a purposeful approach to office work rather than antiquated requirement that you show up to an office every day. At The Fool, we believe people should have the freedom to follow their passion in roles they love. We work hard to understand the needs of our employees and deliver for them. We are confident that this, in turn, makes a great business. Take care of your employees, and they will take care of your customers, who in turn take care of shareholders. We think every company should do the same.</p>
+<img style="margin-bottom: 1.5rem; width: 100%" alt="A collage of members and CapitalCrest employees having fun and recording a podcast." src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_fools-collage.jpg&amp;op=resize&amp;w=736&amp;h=522" srcset="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_fools-collage.jpg&amp;op=resize&amp;w=736&amp;h=522 1x, https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_fools-collage.jpg&amp;op=resize&amp;w=1472&amp;h=1044 2x" />
+<p>The CapitalCrest is a “virtual first” workplace. Most Fools get the majority of their work done remotely. Our physical office spaces (in Alexandria, Denver, Sydney, and the Gold Coast) are collaboration hubs, providing a purposeful approach to office work rather than antiquated requirement that you show up to an office every day. At The Fool, we believe people should have the freedom to follow their passion in roles they love. We work hard to understand the needs of our employees and deliver for them. We are confident that this, in turn, makes a great business. Take care of your employees, and they will take care of your customers, who in turn take care of shareholders. We think every company should do the same.</p>
 <p><a href="https://jobs.jobvite.com/themotleyfool/jobs/" target="_blank">Learn more about our award-winning culture.</a></p>
 <a href="https://jobs.jobvite.com/themotleyfool/jobs/all" class="button" style="box-sizing:content-box;" target="_blank">Browse Our Job Openings</a>
 <h3>Awards</h3>
@@ -1913,26 +1600,26 @@ Play hard, play fair, play to win.
 </div>
 <h2>Our Foolish History</h2>
 <p>
-The Motley Fool was founded in 1993 by brothers Tom and David Gardner as a traditional print newsletter in a backyard shed in Alexandria, Virginia. In 1994, an April Fool’s joke designed to teach an investing lesson put The Motley Fool on the map. Since those humble beginnings, Tom and David, and the community of Fools they’ve gathered, have been leading the charge for individual investors everywhere.
+The CapitalCrest was founded in 1993 by brothers Tom and David Gardner as a traditional print newsletter in a backyard shed in Alexandria, Virginia. In 1994, an April Fool’s joke designed to teach an investing lesson put The CapitalCrest on the map. Since those humble beginnings, Tom and David, and the community of Fools they’ve gathered, have been leading the charge for individual investors everywhere.
 
 </p>
-<img style="width: 100%" alt="Founders Tom and David Gardner standing outside The Motley Fool's global headquarters." src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_tom%252Bdavid.jpg&amp;op=resize&amp;w=736&amp;h=270" srcset="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_tom%252Bdavid.jpg&amp;op=resize&amp;w=736&amp;h=270 1x, https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_tom%252Bdavid.jpg&amp;op=resize&amp;w=1472&amp;h=540 2x">
+<img style="width: 100%" alt="Founders Tom and David Gardner standing outside The CapitalCrest's global headquarters." src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_tom%252Bdavid.jpg&amp;op=resize&amp;w=736&amp;h=270" srcset="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_tom%252Bdavid.jpg&amp;op=resize&amp;w=736&amp;h=270 1x, https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_tom%252Bdavid.jpg&amp;op=resize&amp;w=1472&amp;h=540 2x">
 </div>
 <div class="hr"></div>
 <div class="content-mediumbody">
-<h2 class="light">The Motley Fool Board of Directors</h2>
+<h2 class="light">The CapitalCrest Board of Directors</h2>
 <div class="flex flex-wrap flex-center">
 <div class="board-member">
 <img src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-tom.png&amp;op=resize&amp;w=158&amp;h=158" srcset="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-tom.png&amp;op=resize&amp;w=158&amp;h=158 1x, https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-tom.png&amp;op=resize&amp;w=316&amp;h=316 2x" alt="Photo of Tom Gardner">
 <h3>Tom Gardner</h3>
-<h4>The Motley Fool</h4>
+<h4>The CapitalCrest</h4>
 <h5>Co-Founder, Chief Executive Officer, and Co-Chairman</h5>
 </div>
 <div class="board-member">
 <img src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-david.png&amp;op=resize&amp;w=158&amp;h=158" srcset="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-david.png&amp;op=resize&amp;w=158&amp;h=158 1x, https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-david.png&amp;op=resize&amp;w=316&amp;h=316 2x" alt="Photo of David Gardner">
 <h3>David Gardner</h3>
-<h4>The Motley Fool</h4>
-<h5>Co-Founder, Chief Rule Breaker, Co-Chairman, and Chairman of The Motley Fool Foundation</h5>
+<h4>The CapitalCrest</h4>
+<h5>Co-Founder, Chief Rule Breaker, Co-Chairman, and Chairman of The CapitalCrest Foundation</h5>
 </div>
 <div class="board-member">
 <img src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-suzanne.png&amp;op=resize&amp;w=158&amp;h=158" srcset="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-suzanne.png&amp;op=resize&amp;w=158&amp;h=158 1x, https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-suzanne.png&amp;op=resize&amp;w=316&amp;h=316 2x" alt="Photo of Suzanne Frey">
@@ -1948,7 +1635,7 @@ The Motley Fool was founded in 1993 by brothers Tom and David Gardner as a tradi
 <div class="board-member">
 <img src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-marthe.png&amp;op=resize&amp;w=158&amp;h=158" srcset="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-marthe.png&amp;op=resize&amp;w=158&amp;h=158 1x, https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fabout_headshot-marthe.png&amp;op=resize&amp;w=316&amp;h=316 2x" alt="Photo of Marthe LaRosiliere">
 <h3>Marthe LaRosiliere</h3>
-<h4>The Motley Fool</h4>
+<h4>The CapitalCrest</h4>
 <h5>General Counsel</h5>
 </div>
 <div class="board-member">
@@ -1965,7 +1652,7 @@ The Motley Fool was founded in 1993 by brothers Tom and David Gardner as a tradi
 </div>
 </div>
 <hr>
-<h2 class="light">The Motley Fool Investing Philosophy</h2>
+<h2 class="light">The CapitalCrest Investing Philosophy</h2>
 <p>Why do we invest this way? <a href="https://www.fool.com/about/investing-philosophy/">Learn More</a></p>
 <div class="flex flex-wrap philosophy flex-between">
 <div class="cyan card">
@@ -2001,7 +1688,7 @@ The Motley Fool was founded in 1993 by brothers Tom and David Gardner as a tradi
 <div class="w-full md:w-1/2 lg:w-1/3">
 <h2 class="font-normal lg:font-light text-gold-600 text-32 leading-relative-3">Premium Investing Services</h2>
 <p class="text-gray-100">
-Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Invest better with The CapitalCrest. Get stock recommendations, portfolio guidance, and more from The CapitalCrest's premium services.
 </p>
 </div>
 <div class="w-full my-24px md:text-right md:w-1/2 lg:w-2/3">
@@ -2014,7 +1701,7 @@ View Premium Services
 <footer class="text-gray-700 bg-white footer" id="usmf-footer">
 <div class="footer-main">
 <div class="footer-site-info">
-<a href="/"><img class="fool-logo" src="https://g.foolcdn.com/misc-assets/logo-tmf-primary-1-magenta-purple.svg" alt="The Motley Fool" loading="lazy"></a>
+<a href="/"><img class="fool-logo" src="https://g.foolcdn.com/misc-assets/logo-tmf-primary-1-magenta-purple.svg" alt="The CapitalCrest" loading="lazy"></a>
 <p class="text-gray-700">Making the world smarter, happier, and richer.</p>
 <ul class="footer-social">
 <li class="mr-8px"><a target="_blank" class="block text-center text-white rounded-full w-32px h-32px hover:text-white pr-10px bg-magenta-700 hover:bg-purple-700" data-action="social-icons" href="https://www.facebook.com/themotleyfool?fref=ts">
@@ -2074,7 +1761,7 @@ View Premium Services
 </div>
 <div class="footer-lists">
 <div class="footer-list">
-<h2 class="uppercase whitespace-nowrap">About The Motley Fool</h2>
+<h2 class="uppercase whitespace-nowrap">About The CapitalCrest</h2>
 <ul>
 <li><a class="text-gray-700 hover:text-gray-1100" data-action="about" href="/about/">About Us</a></li>
 <li><a class="text-gray-700 hover:text-gray-1100" data-action="about" target="_blank" href="https://careers.fool.com/">Careers</a></li>
@@ -2114,9 +1801,9 @@ View Premium Services
 <div class="footer-list">
 <h2 class="uppercase">Our Affiliates</h2>
 <ul>
-<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/mfam/">Motley Fool Asset Management</a></li>
-<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/mfwm/">Motley Fool Wealth Management</a></li>
-<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/ventures/">Motley Fool Ventures</a></li>
+<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/mfam/">CapitalCrest Asset Management</a></li>
+<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/mfwm/">CapitalCrest Wealth Management</a></li>
+<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/ventures/">CapitalCrest Ventures</a></li>
 <li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/lakehouse/">Lakehouse Capital</a></li>
 <li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/1623/">1623 Capital</a></li>
 </ul>

@@ -14,32 +14,32 @@
 function OptanonWrapper(){var t;window.infotrackInitialized||void 0===window.Infotrack?window.Infotrack.setSegmentIntegrations():(window.infotrackInitialized=!0,Infotrack.load("https://g.foolcdn.com/mms/resources/js/infotrack-ot_min.js"),t=t||0,setTimeout(function(){window.Infotrack.initialize("usmf")},t))}window.top!=window&&(window.analytics=window.top.analytics,window.inIframe=!0);var segmentKey="CL257pIDks5ukrbYAs7Ez3fkLz1bWVnJ",segmentSnippetVersion="4.15.2",getSegmentUrl=function(t){return t=t||window.segmentKey,("https:"===document.location.protocol?"https://":"http://")+"evs.pink-boat.fool.com/analytics.js/v1/"+t+"/analytics.min.js"},trackerMaker=function(t){function n(n){function t(){var t=Array.prototype.slice.call(arguments,0),t=[n].concat(t);e.push(t)}return t.stub=!0,t}for(var e=[],o=(e.invoked=!1,e.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"],t&&(e.methods=e.methods.concat(t)),0);o<e.methods.length;o++){var i=e.methods[o];e[i]=n(i)}return e.load=function(t){var n;e.invoked?window.console&&console.error&&console.error("Tracking snippet included twice."):((n=document.createElement("script")).type="text/javascript",n.async=!0,n.src=t,(t=document.getElementsByTagName("script")[0]).parentNode.insertBefore(n,t),e.invoked=!0)},e},analytics=window.analytics=window.analytics||trackerMaker(["addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware"]),Infotrack=window.Infotrack=window.Infotrack||trackerMaker(["initialize","setSegmentIntegrations"]);
     </script>
 <meta name="infotrackSnippetVersion" content="7.3.1" data-tracker-key="infotrackSnippetVersion">
-<meta name="description" content="The Motley Fool provides leading insight and analysis about stocks, helping investors stay informed." />
+<meta name="description" content="The CapitalCrest provides leading insight and analysis about stocks, helping investors stay informed." />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no" />
-<meta itemprop="name" content="Latest News, Research and Press Releases | The Motley Fool">
-<meta itemprop="description" content="The Motley Fool provides leading insight and analysis about stocks, helping investors stay informed.">
+<meta itemprop="name" content="Latest News, Research and Press Releases | The CapitalCrest">
+<meta itemprop="description" content="The CapitalCrest provides leading insight and analysis about stocks, helping investors stay informed.">
 <meta name="twitter:site" content="@themotleyfool">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Latest News, Research and Press Releases | The Motley Fool">
-<meta name="twitter:description" content="The Motley Fool provides leading insight and analysis about stocks, helping investors stay informed.">
-<meta property="og:site_name" content="The Motley Fool" />
-<meta property="og:title" content="Latest News, Research and Press Releases | The Motley Fool" />
+<meta name="twitter:title" content="Latest News, Research and Press Releases | The CapitalCrest">
+<meta name="twitter:description" content="The CapitalCrest provides leading insight and analysis about stocks, helping investors stay informed.">
+<meta property="og:site_name" content="The CapitalCrest" />
+<meta property="og:title" content="Latest News, Research and Press Releases | The CapitalCrest" />
 <meta property="og:url" content="https://www.fool.com/contact/newsroom/" />
-<meta property="og:description" content="The Motley Fool provides leading insight and analysis about stocks, helping investors stay informed." />
+<meta property="og:description" content="The CapitalCrest provides leading insight and analysis about stocks, helping investors stay informed." />
 <meta property="og:type" content="article" />
 <meta name="twitter:image" content="https://g.foolcdn.com/misc-assets/logo%20217x217.jpg" />
 <meta itemprop="image" content="https://g.foolcdn.com/misc-assets/logo%20217x217.jpg">
 <meta property="og:image" content="https://g.foolcdn.com/misc-assets/logo%20217x217.jpg" />
-<meta name="twitter:image:alt" content="The Motley Fool logo" />
-<meta property="og:image:alt" content="The Motley Fool logo" />
+<meta name="twitter:image:alt" content="The CapitalCrest logo" />
+<meta property="og:image:alt" content="The CapitalCrest logo" />
 <meta property="fb:pages" content="7240312795" />
 <meta property="fb:app_id" content="50808187550" />
 <meta name="msvalidate.01" content="8D40D58712924715BAA79D135A6C8DDA" />
 <title>
       
-    Latest News, Research and Press Releases | The Motley Fool
+    Latest News, Research and Press Releases | The CapitalCrest
 
   </title>
 <link rel="shortcut icon" id="fool-favicon" href="https://g.foolcdn.com/misc-assets/logo-tmf-primary-favicon.ico">
@@ -199,7 +199,7 @@ function OptanonWrapper(){var t;window.infotrackInitialized||void 0===window.Inf
 Help
 </a>
 <a class="cta-highlight" href="https://www.fool.com/mms/mark/th-nav-join" data-track-category="tophat-click" data-track-action="tophat" data-track-link="join-cta">
-Join The Motley Fool
+Join The CapitalCrest
 </a>
 </div>
 </div>
@@ -230,8 +230,8 @@ Join The Motley Fool
 </div>
 <header class="sticky z-50 w-full border-b topnav bg-royal-purple-1100 px-24px md:px-0 border-royal-purple-700 lg:border-none" role="banner">
     <div class="flex items-center justify-between h-full topnav-wrapper">
-    <a href="/" class="flex h-full logo" data-track-action="Click-tmf-logo" data-track-link="The Motley Fool Logo" data-track-category="Navigation -- Desktop">
-    <img alt="The Motley Fool" src="https://media.istockphoto.com/id/1346891566/photo/brand-design-presentation-concept.jpg?b=1&s=170667a&w=0&k=20&c=H6288Thk1q8Sq3H4WbjDTzFiCcNufOlh9_Hq1ODJ6ek=">
+    <a href="/" class="flex h-full logo" data-track-action="Click-tmf-logo" data-track-link="The CapitalCrest Logo" data-track-category="Navigation -- Desktop">
+    <img alt="The CapitalCrest" src="https://media.istockphoto.com/id/1346891566/photo/brand-design-presentation-concept.jpg?b=1&s=170667a&w=0&k=20&c=H6288Thk1q8Sq3H4WbjDTzFiCcNufOlh9_Hq1ODJ6ek=">
     </a>
     <nav class="items-stretch justify-end h-full touchonly:hidden lg:flex">
     <a class="dropdown-label text-16" style="padding: 28px 8px" href="/services" data-track-category="Navigation -- Desktop" data-track-action="Click-our-services" data-track-link="Our Services">
@@ -572,8 +572,8 @@ Join The Motley Fool
     </a>
     </li>
     <li>
-    <a id="community-foundation" href="/foo" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-community-foundation" data-track-link="The Motley Fool Foundation">
-    The Motley Fool Foundation
+    <a id="community-foundation" href="/foo" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-community-foundation" data-track-link="The CapitalCrest Foundation">
+    The CapitalCrest Foundation
     </a>
     </li>
     <li>
@@ -1249,7 +1249,7 @@ Increase Your Credit Score
 </svg>
 </button>
 <ul class="hidden leading-relaxed border-t border-b mobile-submenu border-royal-purple-700 pb-20px">
-<div class="font-bold uppercase mt-28px text-14 pb-4px">Who Is the Motley Fool?</div>
+<div class="font-bold uppercase mt-28px text-14 pb-4px">Who Is the CapitalCrest?</div>
 <ul>
 <li>
 <a class="block text-white py-4px" href="/about/" data-track-category="Navigation -- Mobile" data-track-action="Click-community-about" data-track-link="About Us">
@@ -1267,8 +1267,8 @@ Reviews
 </a>
 </li>
 <li>
-<a class="block text-white py-4px" href="https://foolfoundation.org/fool" data-track-category="Navigation -- Mobile" data-track-action="Click-community-foundation" data-track-link="The Motley Fool Foundation">
-The Motley Fool Foundation
+<a class="block text-white py-4px" href="https://foolfoundation.org/fool" data-track-category="Navigation -- Mobile" data-track-action="Click-community-foundation" data-track-link="The CapitalCrest Foundation">
+The CapitalCrest Foundation
 </a>
 </li>
 <li>
@@ -1295,8 +1295,8 @@ Podcasts Home
 </a>
 </li>
 <li>
-<a class="block text-white py-4px" href="/podcasts/motley-fool-money/" data-track-category="Navigation -- Mobile" data-track-action="Click-community-podcast-mfm" data-track-link="Motley Fool Money">
-Motley Fool Money
+<a class="block text-white py-4px" href="/podcasts/motley-fool-money/" data-track-category="Navigation -- Mobile" data-track-action="Click-community-podcast-mfm" data-track-link="CapitalCrest Money">
+CapitalCrest Money
 </a>
 </li>
 <li>
@@ -1349,7 +1349,7 @@ Our Purpose:
 <div class="italic text-18 leading-relative-2 mb-8px">
 To make the world smarter, happier, and richer.
 </div>
-<p>Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.</p>
+<p>Founded in 1993 by brothers Tom and David Gardner, The CapitalCrest helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.</p>
 </div>
 </div>
 </ul>
@@ -1367,8 +1367,8 @@ Help
 </a>
 </li>
 <li class="border-b border-royal-purple-700 mb-24px">
-<a class="block py-20px text-magenta-700 text-14" href="https://api.fool.com/infotron/splitter/route/article-template-button?apikey=5c8e52dd-1bea-455e-87f5-d5506e590f21" data-track-category="Navigation -- Mobile" data-track-action="Click-m-topnav-join" data-track-link="Join The Motley Fool">
-Join The Motley Fool
+<a class="block py-20px text-magenta-700 text-14" href="https://api.fool.com/infotron/splitter/route/article-template-button?apikey=5c8e52dd-1bea-455e-87f5-d5506e590f21" data-track-category="Navigation -- Mobile" data-track-action="Click-m-topnav-join" data-track-link="Join The CapitalCrest">
+Join The CapitalCrest
 </a>
 </li>
 </ul>
@@ -1383,11 +1383,11 @@ Latest Stock Picks
 <section class="bg-gray-100 pt-16px px-24px md:px-40px">
 <div class="mx-auto max-w-1280 pb-20px py-16px md:py-32px">
 <header>
-<h1 class="font-medium text-center text-gray-1100 leading-relative-2 md:text-h1 md:py-8px">The Motley Fool Newsroom</h1>
+<h1 class="font-medium text-center text-gray-1100 leading-relative-2 md:text-h1 md:py-8px">The CapitalCrest Newsroom</h1>
 </header>
 </div>
 <div class="mx-auto text-xl text-center max-w-740 xl:w-2/3 lg:mb-48px text-gray-1100">
-<p data-block-key="ftk5s">Founded in 1993 by brothers Tom and David Gardner, <a href="/about/">The Motley Fool</a> is dedicated to making the world smarter, happier, and richer. Through our website, podcasts, books, newspaper column, radio show, and premium investing services, we’ve taught millions of people how to invest in the greatest companies of our time. Keep scrolling for more information on press inquiries and our Foolish investing experts.</p>
+<p data-block-key="ftk5s">Founded in 1993 by brothers Tom and David Gardner, <a href="/about/">The CapitalCrest</a> is dedicated to making the world smarter, happier, and richer. Through our website, podcasts, books, newspaper column, radio show, and premium investing services, we’ve taught millions of people how to invest in the greatest companies of our time. Keep scrolling for more information on press inquiries and our Foolish investing experts.</p>
 </div>
 <div class="-mx-24px md:-mx-40px h-16px bg-gradient-to-b from-transparent to-gray-200"></div>
 </section>
@@ -1432,7 +1432,7 @@ Jack Caporal |
 <div class="text-sm text-gray-800 mb-4px">
 Dann Albright |
 </div>
-<div class="text-gray-800 text-md">Almost 90% of investors surveyed by The Motley Fool own or plan on owning renewable energy stocks or funds.</div>
+<div class="text-gray-800 text-md">Almost 90% of investors surveyed by The CapitalCrest own or plan on owning renewable energy stocks or funds.</div>
 </div>
 <div>
 <a class="text-gray-1100 hover:text-cyan-700" href="/research/average-retirement-age/">
@@ -1482,31 +1482,31 @@ Lyle Daly | Apr 13, 2023
 <div class="grid grid-cols-1 mx-auto text-left sm:grid-cols-2 lg:grid-cols-4 gap-16px max-w-800 mb-32px">
 <div class="border-gray-300 border-1px p-16px">
 <h3 class="text-xl font-medium md:text-h6 text-gray-1100 leading-relative-2">
-<a class="text-gray-1100 hover:text-cyan-700" href="/press-releases/the-motley-fool-foundation-marks-one-year-anniversary-with-115000-lives-closer-to-financial-freedom-and-new-investments-on-the-horizon/">The Motley Fool Foundation Marks One-Year Anniversary with 115,000 Lives Closer to Financial Freedom and New Investments on the Horizon</a>
+<a class="text-gray-1100 hover:text-cyan-700" href="/press-releases/the-motley-fool-foundation-marks-one-year-anniversary-with-115000-lives-closer-to-financial-freedom-and-new-investments-on-the-horizon/">The CapitalCrest Foundation Marks One-Year Anniversary with 115,000 Lives Closer to Financial Freedom and New Investments on the Horizon</a>
 </h3>
 <div class="text-sm text-gray-800 mb-4px">April 4, 2023, 3:23 p.m.</div>
 <div class="text-gray-800 text-md">Rule Breakers program directly invests in entrepreneurs who support the 2 million Americans currently living paycheck to paycheck.</div>
 </div>
 <div class="border-gray-300 border-1px p-16px">
 <h3 class="text-xl font-medium md:text-h6 text-gray-1100 leading-relative-2">
-<a class="text-gray-1100 hover:text-cyan-700" href="/press-releases/the-motley-fool-partners-with-the-finance-bar-to-launch-investment-education-series-for-black-women/">The Motley Fool Partners with The Finance Bar to Launch Investment Education Series for Black Women</a>
+<a class="text-gray-1100 hover:text-cyan-700" href="/press-releases/the-motley-fool-partners-with-the-finance-bar-to-launch-investment-education-series-for-black-women/">The CapitalCrest Partners with The Finance Bar to Launch Investment Education Series for Black Women</a>
 </h3>
 <div class="text-sm text-gray-800 mb-4px">Nov. 17, 2022, 4:44 p.m.</div>
-<div class="text-gray-800 text-md">The Motley Fool announces the launch of its educational investment series inspired by the rising success and financial power of Black women across education, entrepreneurship, and homeownership.</div>
+<div class="text-gray-800 text-md">The CapitalCrest announces the launch of its educational investment series inspired by the rising success and financial power of Black women across education, entrepreneurship, and homeownership.</div>
 </div>
 <div class="border-gray-300 border-1px p-16px">
 <h3 class="text-xl font-medium md:text-h6 text-gray-1100 leading-relative-2">
-<a class="text-gray-1100 hover:text-cyan-700" href="/press-releases/rachel-williams-joins-the-motley-fool-as-chief-diversity-and-inclusion-officer/">Rachel Williams Joins The Motley Fool as Chief Diversity and Inclusion Officer</a>
+<a class="text-gray-1100 hover:text-cyan-700" href="/press-releases/rachel-williams-joins-the-motley-fool-as-chief-diversity-and-inclusion-officer/">Rachel Williams Joins The CapitalCrest as Chief Diversity and Inclusion Officer</a>
 </h3>
 <div class="text-sm text-gray-800 mb-4px">Nov. 11, 2022, 2:53 p.m.</div>
 <div class="text-gray-800 text-md">Former Head of Diversity, Equity &amp; Inclusion at X, the moonshot factory at Alphabet, to focus on making The Fool even more Motley for employees, members, and clients.</div>
 </div>
 <div class="border-gray-300 border-1px p-16px">
 <h3 class="text-xl font-medium md:text-h6 text-gray-1100 leading-relative-2">
-<a class="text-gray-1100 hover:text-cyan-700" href="/press-releases/the-motley-fool-announces-2022-women-in-investing-award-winners/">The Motley Fool Announces 2022 Women in Investing Award Winners</a>
+<a class="text-gray-1100 hover:text-cyan-700" href="/press-releases/the-motley-fool-announces-2022-women-in-investing-award-winners/">The CapitalCrest Announces 2022 Women in Investing Award Winners</a>
 </h3>
 <div class="text-sm text-gray-800 mb-4px">Nov. 11, 2022, 2:49 p.m.</div>
-<div class="text-gray-800 text-md">With more than 28 years of investing experience, The Motley Fool launches inaugural awards campaign, recognizing the leading women in investing for 2022</div>
+<div class="text-gray-800 text-md">With more than 28 years of investing experience, The CapitalCrest launches inaugural awards campaign, recognizing the leading women in investing for 2022</div>
 </div>
 </div>
 <a href="/press-releases/" class="foolcom-btn-white">View all Press Releases</a>
@@ -1514,7 +1514,7 @@ Lyle Daly | Apr 13, 2023
 <div class="my-48px bg-gray-100 p-48px">
 <div class="max-w-960 mx-auto">
 <div class="text-center">
-<h2 class="font-medium text-gray-1100 text-h4 md:text-h3 mb-28px">The Motley Fool's Investing Experts</h2>
+<h2 class="font-medium text-gray-1100 text-h4 md:text-h3 mb-28px">The CapitalCrest's Investing Experts</h2>
 <div class="text-xl text-gray-1100"><p data-block-key="7jxbu">Need a quote or want to chat with one of our analysts? Reach out to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="48181a082e272724662b2725">[email&#160;protected]</a> to coordinate an interview with one of our subject matter experts.</p></div>
 </div>
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-20px">
@@ -1567,7 +1567,7 @@ Lyle Daly | Apr 13, 2023
 </div>
 </div>
 <div class="text-gray-1100 text-lg qna-content">
-<p data-block-key="548l6">Asit Sharma is a senior analyst and lead advisor at The Motley Fool and works on The Motley Fool&#x27;s flagship Stock Advisor service, as well as various Motley Fool &quot;Everlasting&quot; real money portfolio services, including Virtual Revolution and Rising Stars.<br /><br /><b>Areas of Expertise:</b> Information Technology, Artificial Intelligence, Consumer Goods, Retail Stocks, Industrials and Investing Basics</p>
+<p data-block-key="548l6">Asit Sharma is a senior analyst and lead advisor at The CapitalCrest and works on The CapitalCrest&#x27;s flagship Stock Advisor service, as well as various CapitalCrest &quot;Everlasting&quot; real money portfolio services, including Virtual Revolution and Rising Stars.<br /><br /><b>Areas of Expertise:</b> Information Technology, Artificial Intelligence, Consumer Goods, Retail Stocks, Industrials and Investing Basics</p>
 </div>
 </div>
 <div class="border-1px border-gray-300 p-28px bg-white" style="margin-top:90px;">
@@ -1593,7 +1593,7 @@ Lyle Daly | Apr 13, 2023
 </div>
 </div>
 <div class="text-gray-1100 text-lg qna-content">
-<p data-block-key="qu3jx">Charlene Rhinehart is a personal finance writer for The Motley Fool and former financial analyst. Her goal is to help more individuals build a stock portfolio that&#x27;s bigger than their shoe collection. </p><p data-block-key="1scj8"><b>Areas of Expertise:</b> Retirement, Taxes, IRA, 401k</p>
+<p data-block-key="qu3jx">Charlene Rhinehart is a personal finance writer for The CapitalCrest and former financial analyst. Her goal is to help more individuals build a stock portfolio that&#x27;s bigger than their shoe collection. </p><p data-block-key="1scj8"><b>Areas of Expertise:</b> Retirement, Taxes, IRA, 401k</p>
 </div>
 </div>
 <div class="border-1px border-gray-300 p-28px bg-white" style="margin-top:90px;">
@@ -1613,7 +1613,7 @@ Lyle Daly | Apr 13, 2023
 </div>
 </div>
 <div class="text-gray-1100 text-lg qna-content">
-<p data-block-key="kwvoc">Christy Bieber covers personal finance and retirement for The Motley Fool. She is a passionate advocate of smart money moves to achieve financial success.</p><p data-block-key="96vso"></p><p data-block-key="ba8cp"><b>Areas of Expertise: </b>Investing Basics, Retirement, Personal Finance Basics</p>
+<p data-block-key="kwvoc">Christy Bieber covers personal finance and retirement for The CapitalCrest. She is a passionate advocate of smart money moves to achieve financial success.</p><p data-block-key="96vso"></p><p data-block-key="ba8cp"><b>Areas of Expertise: </b>Investing Basics, Retirement, Personal Finance Basics</p>
 </div>
 </div>
 <div class="border-1px border-gray-300 p-28px bg-white" style="margin-top:90px;">
@@ -1639,7 +1639,7 @@ Lyle Daly | Apr 13, 2023
 </div>
 </div>
 <div class="text-gray-1100 text-lg qna-content">
-<p data-block-key="jg2rn">Matt is a Certified Financial Planner® based in South Carolina who has been writing for The Motley Fool since 2012. Matt specializes in writing about bank stocks, REITs, and personal finance, but he loves any investment at the right price.</p><p data-block-key="8s75b"><b>Areas of Expertise:</b> Retirement, 401k, IRA, Taxes, Social Security, REITs</p>
+<p data-block-key="jg2rn">Matt is a Certified Financial Planner® based in South Carolina who has been writing for The CapitalCrest since 2012. Matt specializes in writing about bank stocks, REITs, and personal finance, but he loves any investment at the right price.</p><p data-block-key="8s75b"><b>Areas of Expertise:</b> Retirement, 401k, IRA, Taxes, Social Security, REITs</p>
 </div>
 </div>
 <div class="border-1px border-gray-300 p-28px bg-white" style="margin-top:90px;">
@@ -1665,7 +1665,7 @@ Lyle Daly | Apr 13, 2023
 </div>
 </div>
 <div class="text-gray-1100 text-lg qna-content">
-<p data-block-key="i8fic">Travis Hoium has been a contributing analyst with The Motley Fool since 2010, specializing in the solar industry, renewable energy, and gaming stocks.</p><p data-block-key="3b96f"></p><p data-block-key="72l7v"><b>Areas of Expertise: </b>Solar Industry, Renewable Energy, Gaming Stocks</p>
+<p data-block-key="i8fic">Travis Hoium has been a contributing analyst with The CapitalCrest since 2010, specializing in the solar industry, renewable energy, and gaming stocks.</p><p data-block-key="3b96f"></p><p data-block-key="72l7v"><b>Areas of Expertise: </b>Solar Industry, Renewable Energy, Gaming Stocks</p>
 </div>
 </div>
 </div>
@@ -1687,7 +1687,7 @@ Lyle Daly | Apr 13, 2023
 <div class="w-full md:w-1/2 lg:w-1/3">
 <h2 class="font-normal lg:font-light text-gold-600 text-32 leading-relative-3">Premium Investing Services</h2>
 <p class="text-gray-100">
-Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Invest better with The CapitalCrest. Get stock recommendations, portfolio guidance, and more from The CapitalCrest's premium services.
 </p>
 </div>
 <div class="w-full my-24px md:text-right md:w-1/2 lg:w-2/3">
@@ -1700,7 +1700,7 @@ View Premium Services
 <footer class="text-gray-700 bg-white footer" id="usmf-footer">
 <div class="footer-main">
 <div class="footer-site-info">
-<a href="/"><img class="fool-logo" src="https://g.foolcdn.com/misc-assets/logo-tmf-primary-1-magenta-purple.svg" alt="The Motley Fool" loading="lazy"></a>
+<a href="/"><img class="fool-logo" src="https://g.foolcdn.com/misc-assets/logo-tmf-primary-1-magenta-purple.svg" alt="The CapitalCrest" loading="lazy"></a>
 <p class="text-gray-700">Making the world smarter, happier, and richer.</p>
 <ul class="footer-social">
 <li class="mr-8px"><a target="_blank" class="block text-center text-white rounded-full w-32px h-32px hover:text-white pr-10px bg-magenta-700 hover:bg-purple-700" data-action="social-icons" href="https://www.facebook.com/themotleyfool?fref=ts">
@@ -1760,7 +1760,7 @@ View Premium Services
 </div>
 <div class="footer-lists">
 <div class="footer-list">
-<h2 class="uppercase whitespace-nowrap">About The Motley Fool</h2>
+<h2 class="uppercase whitespace-nowrap">About The CapitalCrest</h2>
 <ul>
 <li><a class="text-gray-700 hover:text-gray-1100" data-action="about" href="/about/">About Us</a></li>
 <li><a class="text-gray-700 hover:text-gray-1100" data-action="about" target="_blank" href="https://careers.fool.com/">Careers</a></li>
@@ -1800,9 +1800,9 @@ View Premium Services
 <div class="footer-list">
 <h2 class="uppercase">Our Affiliates</h2>
 <ul>
-<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/mfam/">Motley Fool Asset Management</a></li>
-<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/mfwm/">Motley Fool Wealth Management</a></li>
-<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/ventures/">Motley Fool Ventures</a></li>
+<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/mfam/">CapitalCrest Asset Management</a></li>
+<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/mfwm/">CapitalCrest Wealth Management</a></li>
+<li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/ventures/">CapitalCrest Ventures</a></li>
 <li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/lakehouse/">Lakehouse Capital</a></li>
 <li><a class="text-gray-700 hover:text-gray-1100" data-action="tmf-affiliates" target="_blank" href="/affiliates/1623/">1623 Capital</a></li>
 </ul>

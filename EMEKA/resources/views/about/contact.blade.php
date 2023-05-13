@@ -233,744 +233,430 @@ Join The Motley Fool
 <div class="green"></div>
 </div>
 <header class="sticky z-50 w-full border-b topnav bg-royal-purple-1100 px-24px md:px-0 border-royal-purple-700 lg:border-none" role="banner">
-<div class="flex items-center justify-between h-full topnav-wrapper">
-<a href="/" class="flex h-full logo" data-track-action="Click-tmf-logo" data-track-link="The Motley Fool Logo" data-track-category="Navigation -- Desktop">
-<img alt="The Motley Fool" src="https://g.foolcdn.com/misc-assets/logo-tmf-primary-1-magenta-purple-reversed.svg">
-</a>
-<nav class="items-stretch justify-end h-full touchonly:hidden lg:flex">
-<a class="dropdown-label text-16" style="padding: 28px 8px" href="/services/" data-track-category="Navigation -- Desktop" data-track-action="Click-our-services" data-track-link="Our Services">
-Our Services
-</a>
-<div class="flex dropdown">
-<button class="dropdown-label text-16">
-Investing Basics
-<svg viewBox="0 0 320 512">
-<title>angle-down</title>
-<path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
-</svg>
-</button>
-<div class="flex submenu">
-<div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
-<div class="submenu-column">
-<div class="font-bold uppercase pb-4px md:pb-10 text-14">Premium Services</div>
-<div class="flex flex-col text-white md:items-end bg-cyan-700 p-16px mb-12px md:flex-row" style="
-    background-image: url(https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo-background.svg);
-    background-repeat: no-repeat;
-    background-position: 260px 25px;
-  ">
-<div class="border-b border-white border-dashed md:border-b-0px md:border-r pb-12px md:pb-0px md:pr-24px">
-<div class="font-bold text-14">Stock Advisor</div>
-<div class="text-12">Our Flagship Service</div>
-<div>
-<div>
-<div class="uppercase mt-12px text-10">Return</div>
-<div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">394%</div>
-</div>
-<div>
-<div class="text-10">S&amp;P Return</div>
-<div class="font-bold tracking-tighter text-20 leading-relative-1">117%</div>
-</div>
-</div>
-</div>
-<div class="md:pl-24px pt-12px md:pt-0px">
-<div class="font-bold text-14">Rule Breakers</div>
-<div class="text-12">High-growth Stocks</div>
-<div>
-<div>
-<div class="uppercase mt-12px text-10">Return</div>
-<div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">213%</div>
-</div>
-<div>
-<div class="text-10">S&amp;P Return</div>
-<div class="font-bold tracking-tighter text-20 leading-relative-1">100%</div>
-</div>
-</div>
-</div>
-<div class="hidden md:text-center xl:block">
-<img class="hidden mx-auto md:block" width="60" src="https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo.svg" alt="" />
-<div class="italic text-10 md:mb-8px mt-12px">Returns as of 05/05/2023</div>
-<div class="inline-flex items-center font-bold rounded md:flex border-gold-600 bg-gold-600 hover:border-gold-500 hover:bg-gold-500 h-36px">
-<a class="text-white p-20px important:hover-white" href="/services/">
-View Our Services
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Investing 101</div>
-<ul class="leading-relaxed">
-<li>
-<a id="stocks-how-to-invest" href="/investing/how-to-invest/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest" data-track-link="How to Invest Money">
-How to Invest Money
-</a>
-</li>
-<li>
-<a id="stocks-what-to-invest-in" href="/investing/how-to-invest/what-to-invest-in/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-what-to-invest-in" data-track-link="What to Invest In">
-What to Invest In
-</a>
-</li>
-<li>
-<a id="stocks-how-to-invest-in-stocks" href="/investing/how-to-invest/stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-stocks" data-track-link="How to Invest in Stocks">
-How to Invest in Stocks
-</a>
-</li>
-<li>
-<a id="stocks-how-to-invest-in-index-funds" href="/investing/how-to-invest/index-funds/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-index-funds" data-track-link="How to Invest in Index Funds">
-How to Invest in Index Funds
-</a>
-</li>
-<li>
-<a id="stocks-how-to-invest-in-etfs" href="/investing/how-to-invest/etfs/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-etfs" data-track-link="How to Invest in ETFs">
-How to Invest in ETFs
-</a>
-</li>
-<li>
-<a id="stocks-how-to-real-estate" href="/investing/stock-market/market-sectors/real-estate-investing/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-real-estate" data-track-link="How to Invest in Real Estate">
-How to Invest in Real Estate
-</a>
-</li>
-<li>
-<a id="stocks-how-to-terms" href="/terms/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-terms" data-track-link="Financial Dictionary">
-Financial Dictionary
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Best Accounts</div>
-<ul class="leading-relaxed">
-<li>
-<a id="best-accounts-brokerage" href="https://www.fool.com/the-ascent/buying-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-best-accounts-brokerage" data-track-link="Best Stock Brokers">
-Best Stock Brokers
-</a>
-</li>
-<li>
-<a id="best-beginners-brokers" href="https://www.fool.com/the-ascent/buying-stocks/best-online-stock-brokers-beginners/" data-track-category="Navigation -- Desktop" data-track-action="Click-best-beginners-brokers" data-track-link="Best Brokers for Beginners">
-Best Brokers for Beginners
-</a>
-</li>
-<li>
-<a id="best-accounts-ira" href="https://www.fool.com/the-ascent/buying-stocks/best-brokers-iras/" data-track-category="Navigation -- Desktop" data-track-action="Click-best-accounts-ira" data-track-link="Best IRA Accounts">
-Best IRA Accounts
-</a>
-</li>
-<li>
-<a id="best-accounts-roth-ira" href="https://www.fool.com/the-ascent/buying-stocks/best-roth-ira/" data-track-category="Navigation -- Desktop" data-track-action="Click-best-accounts-roth-ira" data-track-link="Best Roth IRA Accounts">
-Best Roth IRA Accounts
-</a>
-</li>
-<li>
-<a id="best-options-brokers" href="https://www.fool.com/the-ascent/buying-stocks/best-brokers-options/" data-track-category="Navigation -- Desktop" data-track-action="Click-best-options-brokers" data-track-link="Best Options Brokers">
-Best Options Brokers
-</a>
-</li>
-<li>
-<a id="best-crypto-apps" href="/the-ascent/cryptocurrency/best-cryptocurrency-apps/" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-best-crypto-apps" data-track-link="Best Crypto Apps">
-Best Crypto Apps
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Stock Market Basics</div>
-<ul class="leading-relaxed">
-<li>
-<a id="stock-market-basics-stock-market-101" href="/investing/stock-market/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-101" data-track-link="Stock Market 101">
-Stock Market 101
-</a>
-</li>
-<li>
-<a id="stock-market-basics-typles-of-stocks" href="/investing/stock-market/types-of-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-typles-of-stocks" data-track-link="Types of Stocks">
-Types of Stocks
-</a>
-</li>
-<li>
-<a id="stock-market-basics-stock-market-sectors" href="/investing/stock-market/market-sectors/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-sectors" data-track-link="Stock Market Sectors">
-Stock Market Sectors
-</a>
-</li>
-<li>
- <a id="stock-market-basics-stock-market-indexes" href="/investing/stock-market/indexes/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-indexes" data-track-link="Stock Market Indexes">
-Stock Market Indexes
-</a>
-</li>
-<li>
-<a id="stock-market-basics-sp-500" href="/investing/stock-market/indexes/sp-500/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-sp-500" data-track-link="S&amp;P 500">
-S&amp;P 500
-</a>
-</li>
-<li>
-<a id="stock-market-basics-dow-jones" href="/investing/stock-market/indexes/dow-jones/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-dow-jones" data-track-link="Dow Jones">
-Dow Jones
-</a>
-</li>
-<li>
-<a id="stock-market-basics-nasdaq-composite" href="/investing/stock-market/indexes/nasdaq/" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-nasdaq-composite" data-track-link="Nasdaq Composite">
-Nasdaq Composite
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="flex dropdown">
-<button class="dropdown-label text-16">
-Stock Market
-<svg viewBox="0 0 320 512">
-<title>angle-down</title>
-<path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
-</svg>
-</button>
-<div class="flex submenu">
-<div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
-<div class="submenu-column">
-<div class="font-bold uppercase pb-4px md:pb-10 text-14">Premium Services</div>
-<div class="flex flex-col text-white md:items-end bg-cyan-700 p-16px mb-12px md:flex-row" style="
-    background-image: url(https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo-background.svg);
-    background-repeat: no-repeat;
-    background-position: 260px 25px;
-  ">
-<div class="border-b border-white border-dashed md:border-b-0px md:border-r pb-12px md:pb-0px md:pr-24px">
-<div class="font-bold text-14">Stock Advisor</div>
-<div class="text-12">Our Flagship Service</div>
-<div>
-<div>
-<div class="uppercase mt-12px text-10">Return</div>
-<div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">394%</div>
-</div>
-<div>
-<div class="text-10">S&amp;P Return</div>
-<div class="font-bold tracking-tighter text-20 leading-relative-1">117%</div>
-</div>
-</div>
-</div>
-<div class="md:pl-24px pt-12px md:pt-0px">
-<div class="font-bold text-14">Rule Breakers</div>
-<div class="text-12">High-growth Stocks</div>
-<div>
-<div>
-<div class="uppercase mt-12px text-10">Return</div>
-<div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">213%</div>
-</div>
-<div>
-<div class="text-10">S&amp;P Return</div>
-<div class="font-bold tracking-tighter text-20 leading-relative-1">100%</div>
-</div>
- </div>
-</div>
-<div class="hidden md:text-center xl:block">
-<img class="hidden mx-auto md:block" width="60" src="https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo.svg" alt="" />
-<div class="italic text-10 md:mb-8px mt-12px">Returns as of 05/05/2023</div>
-<div class="inline-flex items-center font-bold rounded md:flex border-gold-600 bg-gold-600 hover:border-gold-500 hover:bg-gold-500 h-36px">
-<a class="text-white p-20px important:hover-white" href="/services/">
-View Our Services
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Stocks</div>
-<ul class="leading-relaxed">
-<li>
-<a id="stocks-growth-stocks" href="/investing/stock-market/types-of-stocks/growth-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-growth-stocks" data-track-link="Growth Stocks">
-Growth Stocks
-</a>
-</li>
-<li>
-<a id="stocks-value-stocks" href="/investing/stock-market/types-of-stocks/value-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-value-stocks" data-track-link="Value Stocks">
-Value Stocks
-</a>
-</li>
-<li>
-<a id="stocks-dividend-stocks" href="/investing/stock-market/types-of-stocks/dividend-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-dividend-stocks" data-track-link="Dividend Stocks">
-Dividend Stocks
-</a>
-</li>
-<li>
-<a id="stocks-small-cap-stocks" href="/investing/stock-market/types-of-stocks/small-cap-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-small-cap-stocks" data-track-link="Small Cap Stocks">
-Small Cap Stocks
-</a>
-</li>
-<li>
-<a id="stocks-large-cap-stocks" href="/investing/stock-market/types-of-stocks/large-cap-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-large-cap-stocks" data-track-link="Large Cap Stocks">
-Large Cap Stocks
-</a>
-</li>
-<li>
-<a id="stocks-blue-chip-stocks" href="https://www.fool.com/investing/stock-market/types-of-stocks/blue-chip-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-blue-chip-stocks" data-track-link="Blue Chip Stocks">
-Blue Chip Stocks
-</a>
-</li>
-<li>
-<a id="stocks-how-to-buy-stocks" href="/investing/how-to-invest/stocks/how-to-buy-stock/" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-buy-stocks" data-track-link="How to Buy Stocks">
-How to Buy Stocks
- </a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Industries to Invest In</div>
-<ul class="leading-relaxed">
-<li>
-<a id="industries-to-invest-consumer-goods" href="/investing/stock-market/market-sectors/consumer-discretionary/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-consumer-goods" data-track-link="Consumer Goods">
-Consumer Goods
-</a>
-</li>
-<li>
-<a id="industries-to-invest-technology" href="/investing/stock-market/market-sectors/information-technology/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-technology" data-track-link="Technology">
-Technology
-</a>
-</li>
-<li>
-<a id="industries-to-invest-energy" href="/investing/stock-market/market-sectors/energy/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-energy" data-track-link="Energy">
-Energy
-</a>
-</li>
-<li>
-<a id="industries-to-invest-healthcare" href="/investing/stock-market/market-sectors/healthcare/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-healthcare" data-track-link="Healthcare">
-Healthcare
-</a>
-</li>
-<li>
-<a id="industries-to-invest-financial" href="/investing/stock-market/market-sectors/financials/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-financial" data-track-link="Financial">
-Financial
-</a>
-</li>
-<li>
-<a id="industries-to-invest-crypto" href="/investing/stock-market/market-sectors/financials/cryptocurrency-stocks/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-crypto" data-track-link="Cryptocurrency">
-Cryptocurrency
-</a>
-</li>
-<li>
-<a id="industries-to-invest-nfts" href="/investing/stock-market/market-sectors/financials/non-fungible-tokens/" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-nfts" data-track-link="NFTs">
-NFTs
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">News</div>
-<ul class="leading-relaxed">
-<li>
-<a id="news-top-stocks" href="/investing/top-stocks-to-buy/" data-track-category="Navigation -- Desktop" data-track-action="Click-news-top-stocks" data-track-link="Top Stocks to Buy in 2023">
-Top Stocks to Buy in 2023
-</a>
-</li>
-<li>
-<a id="news-stock-market-news" href="/investing-news/" data-track-category="Navigation -- Desktop" data-track-action="Click-news-stock-market-news" data-track-link="Stock Market News">
-Stock Market News
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="flex dropdown">
-<button class="dropdown-label text-16">
-Retirement
-<svg viewBox="0 0 320 512">
-<title>angle-down</title>
-<path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
-</svg>
-</button>
-<div class="flex submenu">
-<div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Getting Started</div>
-<ul class="leading-relaxed">
-<li>
-<a id="retire-retirement-101" href="/retirement/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-retirement-101" data-track-link="Retirement 101">
-Retirement 101
-</a>
-</li>
-<li>
-<a id="retire-why-start" href="/investing/how-to-invest/stocks/compound-interest/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-why-start" data-track-link="Why to Start Saving Now">
-Why to Start Saving Now
-</a>
-</li>
-<li>
-<a id="retire-types-of-accounts" href="/retirement/plans/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-types-of-accounts" data-track-link="Types of Retirement Accounts">
-Types of Retirement Accounts
-</a>
-</li>
-<li>
-<a id="retire-401k-basics" href="/retirement/plans/401k/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-401k-basics" data-track-link="401k Basics">
-401k Basics
-</a>
-</li>
-<li>
-<a id="retire-ira-basics" href="https://www.fool.com/retirement/plans/ira/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-ira-basics" data-track-link="IRA Basics">
-IRA Basics
-</a>
-</li>
-<li>
-<a id="retire-hsa-basics" href="/retirement/plans/hsa/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-hsa-basics" data-track-link="HSA Basics">
-HSA Basics
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Planning for Retirement</div>
-<ul class="leading-relaxed">
-<li>
-<a id="retire-how-much-needed" href="/retirement/how-much-do-i-need/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-how-much-needed" data-track-link="How Much Do I Need to Retire?">
-How Much Do I Need to Retire?
-</a>
-</li>
-<li>
-<a id="retire-when" href="/retirement/strategies/when-can-i-retire/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-when" data-track-link="When To Retire">
-When To Retire
-</a>
-</li>
-<li>
-<a id="retire-social-security" href="/retirement/social-security/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-social-security" data-track-link="Factoring in Social Security">
-Factoring in Social Security
-</a>
-</li>
-<li>
-<a id="retire-full-retirement-age" href="/retirement/social-security/full-retirement-age/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-full-retirement-age" data-track-link="What is the Full Retirement Age?">
-What is the Full Retirement Age?
-</a>
-</li>
-<li>
-<a id="retire-investings" href="/retirement/strategies/asset-allocation-by-age/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-investings" data-track-link="Investing for Retirement">
-Investing for Retirement
-</a>
-</li>
-<li>
-<a id="retire-strategies" href="/retirement/strategies/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-strategies" data-track-link="Retirement Strategies">
-Retirement Strategies
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Retired: What Now?</div>
-<ul class="leading-relaxed">
-<li>
-<a id="retire-year" href="/retirement/complete-guide/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-year" data-track-link="Retiring in 2023">
-Retiring in 2023
-</a>
-</li>
-<li>
-<a id="retire-withdrawl-strategies" href="/retirement/strategies/withdrawal/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-withdrawl-strategies" data-track-link="Withdrawal Strategies">
-Withdrawal Strategies
-</a>
-</li>
-<li>
-<a id="retire-healthcare" href="/retirement/healthcare-in-retirement/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-healthcare" data-track-link="Healthcare in Retirement">
-Healthcare in Retirement
-</a>
-</li>
-<li>
-<a id="retire-taxes" href="/retirement/taxes/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-taxes" data-track-link="Taxes in Retirement">
-Taxes in Retirement
-</a>
-</li>
-<li>
-<a id="retire-estate" href="/retirement/estate-planning/" data-track-category="Navigation -- Desktop" data-track-action="Click-retire-estate" data-track-link="Estate Planning">
-Estate Planning
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="flex dropdown">
-<button class="dropdown-label text-16">
-Personal Finance
-<svg viewBox="0 0 320 512">
-<title>angle-down</title>
-<path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
-</svg>
-</button>
-<div class="flex submenu">
-<div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Credit Cards</div>
-<ul class="leading-relaxed">
-<li>
-<a id="asc-credit-cards" href="https://www.fool.com/the-ascent/credit-cards/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-credit-cards" data-track-link="Best Credit Cards">
-Best Credit Cards
-</a>
-</li>
-<li>
-<a id="asc-cash-back-cards" href="https://www.fool.com/the-ascent/credit-cards/best-cash-back-credit-card/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-cash-back-cards" data-track-link="Best Cash Back Cards">
-Best Cash Back Cards
-</a>
-</li>
-<li>
-<a id="asc-best-balance-transfer-cards" href="https://www.fool.com/the-ascent/credit-cards/best-balance-transfer-credit-cards/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-balance-transfer-cards" data-track-link="Best Balance Transfer Cards">
-Best Balance Transfer Cards
-</a>
-</li>
-<li>
-<a id="asc-best-travel-credit-cards" href="https://www.fool.com/the-ascent/credit-cards/best-travel-rewards-credit-cards/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-travel-credit-cards" data-track-link="Best Travel Credit Cards">
-Best Travel Credit Cards
-</a>
-</li>
-<li>
-<a id="asc-best-zero-interest-cards" href="https://www.fool.com/the-ascent/credit-cards/best-zero-interest-cards/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-zero-interest-cards" data-track-link="Best 0% Credit Cards">
-Best 0% Credit Cards
-</a>
-</li>
-<li>
-<a id="asc-rewards-cards" href="https://www.fool.com/the-ascent/credit-cards/best-rewards-credit-cards/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-rewards-cards" data-track-link="Best Rewards Cards">
-Best Rewards Cards
-</a>
-</li>
-<li>
-<a id="asc-best-cards-for-bad-credit" href="https://www.fool.com/the-ascent/credit-cards/bad-credit/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-cards-for-bad-credit" data-track-link="Best Cards for Bad Credit">
-Best Cards for Bad Credit
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Bank &amp; Loans</div>
-<ul class="leading-relaxed">
-<li>
-<a id="asc-best-savings-accounts" href="https://www.fool.com/the-ascent/banks/best-savings-accounts/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-savings-accounts" data-track-link="Best Savings Accounts">
-Best Savings Accounts
-</a>
-</li>
-<li>
-<a id="asc-best-checking-accounts" href="https://www.fool.com/the-ascent/banks/checking-accounts/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-checking-accounts" data-track-link="Best Checking Accounts">
-Best Checking Accounts
-</a>
-</li>
-<li>
-<a id="asc-best-cd-rates" href="https://www.fool.com/the-ascent/banks/best-cd-rates/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-cd-rates" data-track-link="Best CD Rates">
-Best CD Rates
-</a>
-</li>
-<li>
-<a id="asc-personal-loans" href="https://www.fool.com/the-ascent/personal-loans/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-personal-loans" data-track-link="Best Personal Loans">
-Best Personal Loans
-</a>
-
-</li>
-<li>
-<a id="asc-debt-consolidation-loans" href="https://www.fool.com/the-ascent/personal-loans/best-personal-loans-debt-consolidation/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-debt-consolidation-loans" data-track-link="Best Debt Consolidation Loans">
-Best Debt Consolidation Loans
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Homebuying</div>
-<ul class="leading-relaxed">
-<li>
-<a id="asc-best-mortgage-lenders" href="https://www.fool.com/the-ascent/mortgages/best-mortgage-lenders" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-best-mortgage-lenders" data-track-link="Best Mortgage Lenders">
-Best Mortgage Lenders
-</a>
-</li>
-<li>
-<a id="asc-mortgage-refi-lenders" href="https://www.fool.com/the-ascent/mortgages/best-refinance-lenders/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-mortgage-refi-lenders" data-track-link="Best Mortgage Refi Lenders">
-Best Mortgage Refi Lenders
-</a>
-</li>
-<li>
-<a id="asc-lenders-for-first-time-buyers" href="https://www.fool.com/the-ascent/mortgages/best-mortgage-lenders-first-time-homebuyers/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-lenders-for-first-time-buyers" data-track-link="Best Lenders for First-time Buyers">
-Best Lenders for First-time Buyers
-</a>
-</li>
-<li>
-<a id="asc-fha-mortgage-lenders" href="https://www.fool.com/the-ascent/mortgages/best-lenders-fha-loans/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-fha-mortgage-lenders" data-track-link="Best FHA Mortgage Lenders">
-Best FHA Mortgage Lenders
-</a>
-</li>
-<li>
-<a id="asc-current-mortgage-rates" href="https://www.fool.com/the-ascent/mortgages/rates/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-current-mortgage-rates" data-track-link="Current Mortgage Rates">
-Current Mortgage Rates
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Guides</div>
-<ul class="leading-relaxed">
-<li>
-<a id="asc-credit-cards-101" href="https://www.fool.com/the-ascent/credit-cards/how-credit-cards-work-beginners-guide/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-credit-cards-101" data-track-link="Credit Cards 101">
-Credit Cards 101
-</a>
-
-</li>
-<li>
-<a id="asc-bank-accounts-101" href="https://www.fool.com/the-ascent/banks/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-bank-accounts-101" data-track-link="Bank Accounts 101">
-Bank Accounts 101
-</a>
-</li>
-<li>
-<a id="asc-home-laons-101" href="https://www.fool.com/the-ascent/mortgages/beginners-guide-home-loans/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-home-laons-101" data-track-link="Home Loans 101">
-Home Loans 101
-</a>
-</li>
-<li>
-<a id="asc-pay-off-debt" href="https://www.fool.com/the-ascent/personal-finance/how-to-pay-off-debt/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-pay-off-debt" data-track-link="Pay Off Debt">
-Pay Off Debt
-</a>
-</li>
-<li>
-<a id="asc-increase-credit-score" href="https://www.fool.com/the-ascent/personal-finance/how-to-increase-credit-score/" data-track-category="Navigation -- Desktop" data-track-action="Click-asc-increase-credit-score" data-track-link="Increase Your Credit Score">
-Increase Your Credit Score
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="flex dropdown">
-<button class="dropdown-label text-16">
-About Us
-<svg viewBox="0 0 320 512">
-<title>angle-down</title>
-<path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
-</svg>
-</button>
-<div class="flex submenu">
-<div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
-<div class="submenu-column">
-<div class="w-300 max-w-full mr-16">
-<div class="uppercase font-bold text-14 pb-6">
-Our Purpose:
-</div>
-<div class="italic text-18 leading-relative-2 mb-8px">
-To make the world smarter, happier, and richer.
-</div>
-<p>Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.</p>
-</div>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Who Is the Motley Fool?</div>
-<ul class="leading-relaxed">
-<li>
-<a id="community-about" href="/about/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-about" data-track-link="About Us">
-About Us
-</a>
-</li>
-<li>
-<a id="community-investing-philosophy" href="/about/investing-philosophy/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-investing-philosophy" data-track-link="Investing Philosophy">
-Investing Philosophy
-</a>
-</li>
-<li>
-<a id="community-reviews" href="/about/reviews/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-reviews" data-track-link="Reviews">
-Reviews
-</a>
-</li>
-<li>
-<a id="community-foundation" href="https://foolfoundation.org/fool" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-community-foundation" data-track-link="The Motley Fool Foundation">
-The Motley Fool Foundation
-</a>
-</li>
-<li>
-<a id="community-media" href="/contact/newsroom/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-media" data-track-link="Newsroom">
-Newsroom
-</a>
-</li>
-<li>
-<a id="community-contactus" href="/contact/customer-service" data-track-category="Navigation -- Desktop" data-track-action="Click-community-contactus" data-track-link="Contact Us">
-Contact Us
-</a>
-</li>
-<li>
-<a id="about-publishing-standards" href="https://www.fool.com/about/the-motley-fools-publishing-standards/" data-track-category="Navigation -- Desktop" data-track-action="Click-about-publishing-standards" data-track-link="Publishing Standards">
-Publishing Standards
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Fool Podcasts</div>
-<ul class="leading-relaxed">
-<li>
-<a id="community-podcast-home" href="/podcasts/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-podcast-home" data-track-link="Podcasts Home">
-Podcasts Home
-</a>
-</li>
-<li>
-<a id="community-podcast-mfm" href="/podcasts/motley-fool-money/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-podcast-mfm" data-track-link="Motley Fool Money">
-Motley Fool Money
-</a>
-</li>
-<li>
-<a id="community-podcast-rbi" href="/podcasts/rule-breaker-investing/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-podcast-rbi" data-track-link="Rule Breaker Investing">
-Rule Breaker Investing
-</a>
-</li>
-</ul>
- </div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Social Media</div>
-<ul class="leading-relaxed">
-<li>
-<a id="community-facebook" href="https://www.facebook.com/themotleyfool/" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-community-facebook" data-track-link="Facebook">
-Facebook
-</a>
-</li>
-<li>
-<a id="community-twitter" href="https://twitter.com/themotleyfool" data-track-category="Navigation -- Desktop" data-track-action="Click-community-twitter" data-track-link="Twitter">
-Twitter
-</a>
-</li>
-<li>
-<a id="community-youtube" href="https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag" data-track-category="Navigation -- Desktop" data-track-action="Click-community-youtube" data-track-link="YouTube">
-YouTube
-</a>
-</li>
-<li>
-<a id="community-boards" href="https://discussion.fool.com/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-boards" data-track-link="Discussion Boards">
-Discussion Boards
-</a>
-</li>
-<li>
-<a id="community-caps" href="https://caps.fool.com/" data-track-category="Navigation -- Desktop" data-track-action="Click-community-caps" data-track-link="CAPS - Stock Picking Community">
-CAPS - Stock Picking Community
-</a>
-</li>
-</ul>
-</div>
-<div class="submenu-column">
-<div class="pb-6 font-bold uppercase text-14">Other Services</div>
-<ul class="leading-relaxed">
-<li>
-<a id="about-ascent" href="https://www.fool.com/the-ascent/" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-about-ascent" data-track-link="The Ascent">
-The Ascent
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="items-center rounded touchonly:hidden lg:hidden topnav-picks xl:flex">
-<a href="https://api.fool.com/infotron/splitter/route/article-template-button?apikey=5c8e52dd-1bea-455e-87f5-d5506e590f21" class="nav-link-stock-picks text-14" data-track-category="Navigation -- Desktop" data-track-action="Click-topnav-picks" data-track-link="Latest Stock Picks">
-Latest Stock Picks
-</a>
-</div>
-</nav>
-<div class="items-center touchonly:flex lg:hidden">
-<button id="mobile-nav-toggler" style="line-height:0">
-<svg class="text-white w-32px h-32px" viewBox="0 0 448 512">
-<title>Bars</title>
-<path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path>
-</svg>
-<svg class="hidden text-white w-32px h-32px" viewBox="0 0 320 512">
-<title>Times</title>
-<path d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z"></path>
-</svg>
-</button>
-</div>
-</div>
-</header>
+    <div class="flex items-center justify-between h-full topnav-wrapper">
+    <a href="/" class="flex h-full logo" data-track-action="Click-tmf-logo" data-track-link="CapitalCrest Logo" data-track-category="Navigation -- Desktop">
+    <img alt="CapitalCrest" src="https://media.istockphoto.com/id/1346891566/photo/brand-design-presentation-concept.jpg?b=1&s=170667a&w=0&k=20&c=H6288Thk1q8Sq3H4WbjDTzFiCcNufOlh9_Hq1ODJ6ek=">
+    </a>
+    <nav class="items-stretch justify-end h-full touchonly:hidden lg:flex">
+    <a class="dropdown-label text-16" style="padding: 28px 8px" href="/services" data-track-category="Navigation -- Desktop" data-track-action="Click-our-services" data-track-link="Our Services">
+    Our Services
+    </a>
+    <div class="flex dropdown">
+    <button class="dropdown-label text-16">
+    Investing Basics
+    <svg viewBox="0 0 320 512">
+    <title>angle-down</title>
+    <path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
+    </svg>
+    </button>
+    <div class="flex submenu">
+    <div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
+    <div class="submenu-column">
+    <div class="font-bold uppercase pb-4px md:pb-10 text-14">Premium Services</div>
+    <div class="flex flex-col text-white md:items-end bg-cyan-700 p-16px mb-12px md:flex-row" style="
+        background-image: url(https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo-background.svg);
+        background-repeat: no-repeat;
+        background-position: 260px 25px;
+      ">
+    <div class="border-b border-white border-dashed md:border-b-0px md:border-r pb-12px md:pb-0px md:pr-24px">
+    <div class="font-bold text-14">Stock Advisor</div>
+    <div class="text-12">Our Flagship Service</div>
+    <div>
+    <div>
+    <div class="uppercase mt-12px text-10">Return</div>
+    <div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">395%</div>
+    </div>
+    <div>
+    <div class="text-10">S&amp;P Return</div>
+    <div class="font-bold tracking-tighter text-20 leading-relative-1">118%</div>
+    </div>
+    </div>
+    </div>
+    <div class="md:pl-24px pt-12px md:pt-0px">
+    <div class="font-bold text-14">Rule Breakers</div>
+    <div class="text-12">High-growth Stocks</div>
+    <div>
+    <div>
+    <div class="uppercase mt-12px text-10">Return</div>
+    <div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">212%</div>
+    </div>
+    <div>
+    <div class="text-10">S&amp;P Return</div>
+    <div class="font-bold tracking-tighter text-20 leading-relative-1">101%</div>
+    </div>
+    </div>
+    </div>
+    <div class="hidden md:text-center xl:block">
+    <img class="hidden mx-auto md:block" width="60" src="https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo.svg" alt="" />
+    <div class="italic text-10 md:mb-8px mt-12px">Returns as of 05/05/2023</div>
+    <div class="inline-flex items-center font-bold rounded md:flex border-gold-600 bg-gold-600 hover:border-gold-500 hover:bg-gold-500 h-36px">
+    <a class="text-white p-20px important:hover-white" href="/services">
+    View Our Services
+    </a>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Investing 101</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="stocks-how-to-invest" href="/how" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest" data-track-link="">
+    How to Invest Money
+    </a>
+    </li>
+    <li>
+    <a id="stocks-what-to-invest-in" href="/what" data-track-category="" data-track-action="" data-track-link="">
+    What to Invest In
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-invest-in-stocks" href="/stock" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-stocks" data-track-link="How to Invest in Stocks">
+    How to Invest in Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-invest-in-index-funds" href="/indexfund" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-index-funds" data-track-link="How to Invest in Index Funds">
+    How to Invest in Index Funds
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-invest-in-etfs" href="/etf" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-invest-in-etfs" data-track-link="How to Invest in ETFs">
+    How to Invest in ETFs
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-real-estate" href="/real" data-track-category="Navigation -- Desktop" data-track-action="" data-track-link="How to Invest in Real Estate">
+    How to Invest in Real Estate
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-terms" href="/fin" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-terms" data-track-link="Financial Dictionary">
+    Financial Dictionary
+    </a>
+    </li>
+    </ul>
+    </div>
+    
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Stock Market Basics</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="stock-market-basics-stock-market-101" href="/stock_market" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-101" data-track-link="Stock Market 101">
+    Stock Market 101
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-typles-of-stocks" href="/types" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-typles-of-stocks" data-track-link="Types of Stocks">
+    Types of Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-stock-market-sectors" href="/sector" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-sectors" data-track-link="Stock Market Sectors">
+    Stock Market Sectors
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-stock-market-indexes" href="/indexes" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-stock-market-indexes" data-track-link="Stock Market Indexes">
+    Stock Market Indexes
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-sp-500" href="/sp" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-sp-500" data-track-link="S&amp;P 500">
+    S&amp;P 500
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-dow-jones" href="/dow" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-dow-jones" data-track-link="Dow Jones">
+    Dow Jones
+    </a>
+    </li>
+    <li>
+    <a id="stock-market-basics-nasdaq-composite" href="/nas" data-track-category="Navigation -- Desktop" data-track-action="Click-stock-market-basics-nasdaq-composite" data-track-link="Nasdaq Composite">
+    Nasdaq Composite
+    </a>
+    </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="flex dropdown">
+    <button class="dropdown-label text-16">
+    Stock Market
+    <svg viewBox="0 0 320 512">
+    <title>angle-down</title>
+    <path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
+    </svg>
+    </button>
+    <div class="flex submenu">
+    <div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
+    <div class="submenu-column">
+    <div class="font-bold uppercase pb-4px md:pb-10 text-14">Premium Services</div>
+    <div class="flex flex-col text-white md:items-end bg-cyan-700 p-16px mb-12px md:flex-row" style="
+        background-image: url(https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo-background.svg);
+        background-repeat: no-repeat;
+        background-position: 260px 25px;
+      ">
+    <div class="border-b border-white border-dashed md:border-b-0px md:border-r pb-12px md:pb-0px md:pr-24px">
+    <div class="font-bold text-14">Stock Advisor</div>
+    <div class="text-12">Our Flagship Service</div>
+    <div>
+    <div>
+    <div class="uppercase mt-12px text-10">Return</div>
+    <div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">395%</div>
+    </div>
+    <div>
+    <div class="text-10">S&amp;P Return</div>
+    <div class="font-bold tracking-tighter text-20 leading-relative-1">118%</div>
+    </div>
+    </div>
+    </div>
+    <div class="md:pl-24px pt-12px md:pt-0px">
+    <div class="font-bold text-14">Rule Breakers</div>
+    <div class="text-12">High-growth Stocks</div>
+    <div>
+    <div>
+    <div class="uppercase mt-12px text-10">Return</div>
+    <div class="font-bold tracking-tighter mb-8px text-28 leading-relative-1">212%</div>
+    </div>
+    <div>
+    <div class="text-10">S&amp;P Return</div>
+    <div class="font-bold tracking-tighter text-20 leading-relative-1">101%</div>
+    </div>
+    </div>
+    </div>
+    <div class="hidden md:text-center xl:block">
+    <img class="hidden mx-auto md:block" width="60" src="https://g.foolcdn.com/misc-assets/logo-jester-cap-nav-promo.svg" alt="" />
+    <div class="italic text-10 md:mb-8px mt-12px">Returns as of 05/05/2023</div>
+    <div class="inline-flex items-center font-bold rounded md:flex border-gold-600 bg-gold-600 hover:border-gold-500 hover:bg-gold-500 h-36px">
+    <a class="text-white p-20px important:hover-white" href="/services/">
+    View Our Services
+    </a>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Stocks</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="stocks-growth-stocks" href="/growth" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-growth-stocks" data-track-link="Growth Stocks">
+    Growth Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-value-stocks" href="/value" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-value-stocks" data-track-link="Value Stocks">
+    Value Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-dividend-stocks" href="/dividend" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-dividend-stocks" data-track-link="Dividend Stocks">
+    Dividend Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-small-cap-stocks" href="/small" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-small-cap-stocks" data-track-link="Small Cap Stocks">
+    Small Cap Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-large-cap-stocks" href="/large" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-large-cap-stocks" data-track-link="Large Cap Stocks">
+    Large Cap Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-blue-chip-stocks" href="/blue" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-blue-chip-stocks" data-track-link="Blue Chip Stocks">
+    Blue Chip Stocks
+    </a>
+    </li>
+    <li>
+    <a id="stocks-how-to-buy-stocks" href="/howto" data-track-category="Navigation -- Desktop" data-track-action="Click-stocks-how-to-buy-stocks" data-track-link="How to Buy Stocks">
+    How to Buy Stocks
+    </a>
+    </li>
+    </ul>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Industries to Invest In</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="industries-to-invest-consumer-goods" href="/consumer" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-consumer-goods" data-track-link="Consumer Goods">
+    Consumer Goods
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-technology" href="/tech" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-technology" data-track-link="Technology">
+    Technology
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-energy" href="/energy" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-energy" data-track-link="Energy">
+    Energy
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-healthcare" href="/health" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-healthcare" data-track-link="Healthcare">
+    Healthcare
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-financial" href="/financial" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-financial" data-track-link="Financial">
+    Financial
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-crypto" href="/to" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-crypto" data-track-link="Cryptocurrency">
+    Cryptocurrency
+    </a>
+    </li>
+    <li>
+    <a id="industries-to-invest-nfts" href="/nft" data-track-category="Navigation -- Desktop" data-track-action="Click-industries-to-invest-nfts" data-track-link="NFTs">
+    NFTs
+    </a>
+    </li>
+    </ul>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">News</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="news-top-stocks" href="/to" data-track-category="Navigation -- Desktop" data-track-action="Click-news-top-stocks" data-track-link="Top Stocks to Buy in 2023">
+    Top Stocks to Buy in 2023
+    </a>
+    </li>
+    <li>
+    <a id="news-stock-market-news" href="/news" data-track-category="Navigation -- Desktop" data-track-action="Click-news-stock-market-news" data-track-link="Stock Market News">
+    Stock Market News
+    </a>
+    </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    
+    <div class="flex dropdown">
+    <button class="dropdown-label text-16">
+    About Us
+    <svg viewBox="0 0 320 512">
+    <title>angle-down</title>
+    <path fill="currentColor" d="M151.5 347.8L3.5 201c-4.7-4.7-4.7-12.3 0-17l19.8-19.8c4.7-4.7 12.3-4.7 17 0L160 282.7l119.7-118.5c4.7-4.7 12.3-4.7 17 0l19.8 19.8c4.7 4.7 4.7 12.3 0 17l-148 146.8c-4.7 4.7-12.3 4.7-17 0z"></path>
+    </svg>
+    </button>
+    <div class="flex submenu">
+    <div class="flex justify-between topnav-wrapper p-32px xl:px-0px">
+    <div class="submenu-column">
+    <div class="w-300 max-w-full mr-16">
+    <div class="uppercase font-bold text-14 pb-6">
+    Our Purpose:
+    </div>
+    <div class="italic text-18 leading-relative-2 mb-8px">
+    To make the world smarter, happier, and richer.
+    </div>
+    <p>Founded in 1993 by brothers Tom and David Gardner,CapitalCrest helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.</p>
+    </div>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Who IsCapitalCrest?</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="community-about" href="/about" data-track-category="Navigation -- Desktop" data-track-action="Click-community-about" data-track-link="About Us">
+    About Us
+    </a>
+    </li>
+    <li>
+    <a id="community-investing-philosophy" href="/phy" data-track-category="Navigation -- Desktop" data-track-action="Click-community-investing-philosophy" data-track-link="Investing Philosophy">
+    Investing Philosophy
+    </a>
+    </li>
+    <li>
+    <a id="community-reviews" href="/reviews" data-track-category="Navigation -- Desktop" data-track-action="Click-community-reviews" data-track-link="Reviews">
+    Reviews
+    </a>
+    </li>
+    <li>
+    <a id="community-foundation" href="/foo" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-community-foundation" data-track-link="CapitalCrest Foundation">
+    CapitalCrest Foundation
+    </a>
+    </li>
+    <li>
+    <a id="community-media" href="/room" data-track-category="Navigation -- Desktop" data-track-action="Click-community-media" data-track-link="Newsroom">
+    Newsroom
+    </a>
+    </li>
+    <li>
+    <a id="community-contactus" href="/contact" data-track-category="Navigation -- Desktop" data-track-action="Click-community-contactus" data-track-link="Contact Us">
+    Contact Us
+    </a>
+    </li>
+    
+    </ul>
+    </div>
+    
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Social Media</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="community-facebook" href="" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-community-facebook" data-track-link="Facebook">
+    Facebook
+    </a>
+    </li>
+    <li>
+    <a id="community-twitter" href="" data-track-category="Navigation -- Desktop" data-track-action="Click-community-twitter" data-track-link="Twitter">
+    Twitter
+    </a>
+    </li>
+    <li>
+    <a id="community-youtube" href="" data-track-category="Navigation -- Desktop" data-track-action="Click-community-youtube" data-track-link="YouTube">
+    YouTube
+    </a>
+    </li>
+    <li>
+    <a id="community-boards" href="" data-track-category="Navigation -- Desktop" data-track-action="Click-community-boards" data-track-link="Discussion Boards">
+    Discussion Boards
+    </a>
+    </li>
+    <li>
+    <a id="community-caps" href="" data-track-category="Navigation -- Desktop" data-track-action="Click-community-caps" data-track-link="CAPS - Stock Picking Community">
+    CAPS - Stock Picking Community
+    </a>
+    </li>
+    </ul>
+    </div>
+    <div class="submenu-column">
+    <div class="pb-6 font-bold uppercase text-14">Other Services</div>
+    <ul class="leading-relaxed">
+    <li>
+    <a id="about-ascent" href="" target="_blank" data-track-category="Navigation -- Desktop" data-track-action="Click-about-ascent" data-track-link="The Ascent">
+    The Ascent
+    </a>
+    </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="items-center rounded touchonly:hidden lg:hidden topnav-picks xl:flex">
+    <a href="/latest" class="nav-link-stock-picks text-14" data-track-category="Navigation -- Desktop" data-track-action="Click-topnav-picks" data-track-link="Latest Stock Picks">
+    Latest Stock Picks
+    </a>
+    </div>
+    </nav>
+    <div class="items-center touchonly:flex lg:hidden">
+    <button id="mobile-nav-toggler" style="line-height:0">
+    <svg class="text-white w-32px h-32px" viewBox="0 0 448 512">
+    <title>Bars</title>
+    <path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"></path>
+    </svg>
+    <svg class="hidden text-white w-32px h-32px" viewBox="0 0 320 512">
+    <title>Times</title>
+    <path d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z"></path>
+    </svg>
+    </button>
+    </div>
+    </div>
+    </header>
 <div id="mobile-nav-backdrop" class="fixed hidden w-full h-full bg-gray-600 opacity-75"></div>
 <nav id="mobile-nav-container" class="z-40 hidden w-full bg-royal-purple-1100 px-24px pb-24px">
 <div class="relative flex items-center justify-between pr-24px bg-royal-purple-700 search-box ">
